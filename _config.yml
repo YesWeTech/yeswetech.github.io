@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Gravity
-email: hemangsk@gmail.com
-description: The Liberal Jekyll Theme
+title: Geek & Tech Girls
+email: geek.and.tech.girls@gmail.com
+description: Comunidad que a través del Software Libre acerca la tecnología a mujeres de todas las edades, a la vez que lucha por una sociedad igualitaria e inclusiva.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
-github_username:  hemangsk
+url: "http://geekandtechgirls.github.io" # the base hostname & protocol for your site
+twitter_username: geekandtechgirls
+github_username:  geekandtechgirls
 
 # Build settings
 markdown: kramdown
