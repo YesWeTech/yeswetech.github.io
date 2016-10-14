@@ -11,7 +11,7 @@ email: geek.and.tech.girls@gmail.com
 description: Comunidad que a través del Software Libre acerca la tecnología a mujeres de todas las edades, a la vez que lucha por una sociedad igualitaria e inclusiva.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://geekandtechgirls.github.io" # the base hostname & protocol for your site
-twitter_username: geekandtechgirls
+twitter_username: geekandtechgirl
 github_username:  geekandtechgirls
 
 # Build settings
