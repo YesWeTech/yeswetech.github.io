@@ -27,6 +27,11 @@
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
+          {% if site.facebook_username %}
+          <li>
+            <a href="https://www.facebook.com/{{site.facebook_username}}/"><i class="fa fa-facebook"></i> {{ site.facebook_username }}</a>
+          </li>
+          {% endif %}
         </ul>
       </div>
 

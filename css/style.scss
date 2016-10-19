@@ -63,7 +63,7 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
 
 /**
  * Basic styling
@@ -71,7 +71,7 @@ dl, dd, ol, ul, figure {
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
-    background-color: $background-color;
+    background-image: $background-color;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
@@ -374,7 +374,7 @@ pre {
 .site-title {
   font-size: 64px;
   font-weight: 100;
-  font-family: 'PT Sans';
+  font-family: 'Pacifico';
   text-transform: capitalize;
   font-weight: 500;
   margin-top: 1em;
