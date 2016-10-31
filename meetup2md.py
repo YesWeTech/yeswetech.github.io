@@ -8,7 +8,7 @@ import sys
 import re
 import time
 
-theAPIKey = "7b3b7341b68b573d3b17501e487f4"
+theAPIKey = ""
 
 def main():
 
@@ -42,7 +42,7 @@ def main():
     # Writing the post
     post = open(postFilename, 'w')
     # Head
-    post.write("---\nlayout: post\ntitle: \""+theJSON['name']+"\"\ndate: "+time.strftime("%Y-%m-%d %H:%M:%S")+"\ncategories: [\"eventos\"]\nauthor: \"Geek & Tech Girls\"\n---")
+    post.write("---\nlayout: post\ntitle: \""+theJSON['name']+"\"\ndate: "+time.strftime("%Y-%m-%d %H:%M:%S")+"::00 +0530"+"\ncategories: [\"eventos\"]\nauthor: \"Geek & Tech Girls\"\n---")
     # Post title
     post.write("\n\n## Evento: "+theJSON['name']+"\n\n")
     # Description
