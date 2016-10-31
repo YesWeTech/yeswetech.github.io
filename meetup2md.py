@@ -8,7 +8,7 @@ import sys
 import re
 import time
 
-theAPIKey = ""
+theAPIKey = "7b3b7341b68b573d3b17501e487f4"
 
 def main():
 
@@ -41,7 +41,15 @@ def main():
 
     # Writing the post
     post = open(postFilename, 'w')
-    post.write("---\nlayout: post\ntitle: "+theJSON['name']+"\ndate: "+time.strftime("%Y-%m-%d %H:%M:%S")+"\ncategories: [\"eventos\"]\nauthor: \"Geek & Tech Girls\"\n---")
+    # Head
+    post.write("---\nlayout: post\ntitle: \""+theJSON['name']+"\"\ndate: "+time.strftime("%Y-%m-%d %H:%M:%S")+"\ncategories: [\"eventos\"]\nauthor: \"Geek & Tech Girls\"\n---")
+    # Post title
+    post.write("\n\n## Evento: "+theJSON['name']+"\n\n")
+    # Description
+    post.write(theJSON['description'])
+    # Link
+    post.write("\n\nPuedes apuntarte [aquí]("+theEventURL+")")
+
     post.close()
 
 def obtain_json(eventURL):
