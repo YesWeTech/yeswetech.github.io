@@ -8,7 +8,7 @@ import sys
 import re
 import time
 
-theAPIKey = "7b3b7341b68b573d3b17501e487f4"
+theAPIKey = ""
 
 def main():
 
