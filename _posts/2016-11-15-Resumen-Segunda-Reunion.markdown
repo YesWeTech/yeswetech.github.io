@@ -6,10 +6,10 @@ categories: ["blog"]
 author: "Marta Gómez Macías"
 ---
 
-El pasado viernes 11 de Noviembre celebramos nuestra segunda reunión, que estuvo dividida en dos partes: en primer lugar, _Laura del Pino Díaz_ hizo una presentación sobre el desarrollo de videojuegos (el equipo necesario, cómo iniciarse, cómo darse a conocer como desarollador, etc) y en segundo lugar hicimos un pequeño debate sobre la situación de la mujer en los videojuegos.
+El pasado viernes 11 de Noviembre celebramos nuestra segunda reunión, que estuvo dividida en dos partes: en primer lugar, [_Laura del Pino Díaz_](https://twitter.com/LauraLaureus) hizo una presentación sobre el desarrollo de videojuegos (el equipo necesario, cómo iniciarse, cómo darse a conocer como desarollador, etc) y en segundo lugar hicimos un pequeño debate sobre la situación de la mujer en los videojuegos.
 
 # Charla sobre videojuegos
- 
+
 En su charla, _Laura_ explicó los siguientes temas:
 
 * Qué es un videojuego,
@@ -18,7 +18,7 @@ En su charla, _Laura_ explicó los siguientes temas:
 
 * Cómo desarrollar una carrera profesional en el sector y dónde empezar a publicar los videojuegos que hagamos, tanto a nivel de _app_ móvil como a nivel de aplicación de escritorio además de eventos para desarrolladores de videojuegos.
 
-* Qué sector de la población juega más a videojuegos. _Laura_ nos mostró gráficas y datos que demuestran que la balanza de jugadores por sexo está muy equilibrada, aunque la industria del videojuego cree contenidos más centrados en el sector masculino. 
+* Qué sector de la población juega más a videojuegos. _Laura_ nos mostró gráficas y datos que demuestran que la balanza de jugadores por sexo está muy equilibrada, aunque la industria del videojuego cree contenidos más centrados en el sector masculino.
 
 Además, _Laura_ inició un debate sobre las mujeres en el mundo del videojuego a nivel profesional. Debido a las pocas mujeres que se dedican a la informática, no hay muchas programadoras y la gran mayoría se dedican a la parte artística.
 
