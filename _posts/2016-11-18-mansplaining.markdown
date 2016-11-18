@@ -48,7 +48,7 @@ vicepresidenta de ingeniería de Twitter, [**Nandini Ramani**](https://twitter.c
 hacernos escuchar, por difícil que sea:
 > "Challenge any and all mansplaining," Ramani told CNBC. "Speak up, even when it's hard."
 
-Si ya os tomáis el tema con humor, en [esta página](http://mansplained.tumblr.com/), mujeres cuentas las experiencias más
+Si ya os tomáis el tema con humor, en [esta página](http://mansplained.tumblr.com/), mujeres cuentan las experiencias más
 disparatadas que han tenido con el mansplaining.
 
 Y si eres un hombre y quieres saber si estás incurriendo en este tipo de micromachismo, [**Barbi**]
