@@ -41,11 +41,13 @@ aparece de nuevo esta actitud. Parece que va a estar siempre y que no se puede e
 
 [**Soraya Chemaly**](https://twitter.com/schemaly?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) propone diez simples
 palabras que todas debemos aprender a usar:
+
 > Stop interrupting me. I just said that. No explanation needed.
 
 En [este artículo](http://www.cnbc.com/2016/09/29/twitter-vp-explains-how-to-handle-mansplaining-at-work.html), la
 vicepresidenta de ingeniería de Twitter, [**Nandini Ramani**](https://twitter.com/eyeseewaters?lang=en), nos anima a hablar y a
 hacernos escuchar, por difícil que sea:
+
 > "Challenge any and all mansplaining," Ramani told CNBC. "Speak up, even when it's hard."
 
 Si ya os tomáis el tema con humor, en [esta página](http://mansplained.tumblr.com/), mujeres cuentas las experiencias más
@@ -53,6 +55,7 @@ disparatadas que han tenido con el mansplaining.
 
 Y si eres un hombre y quieres saber si estás incurriendo en este tipo de micromachismo, [**Barbi**](https://twitter.com/@Barbijaputa) tiene [un artículo](http://www.eldiario.es/zonacritica/como_no_caer_en_un_mansplaining-barbijaputa-aliados_6_539006109.html)
 que dice:
+
 > [...] estás preparado para añadir algo al discurso de una feminista cuando no estés movido por la imperiosa necesidad de
 > hacerle saber lo equivocada que está; cuando tu respuesta ante su argumento quiera ser sólo para remarcar que hay partes que se
 > está dejando por analizar aún más en profundidad que la favorecerán y, en definitiva, cuando lo que sientas al escucharla o
