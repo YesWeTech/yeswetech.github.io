@@ -23,7 +23,7 @@ no han intentado hacerle ver lo equivocada que estaba cuando realmente el hombre
 conversación?
 
 Mujeres de todos los ámbitos denuncian a diario este tipo de actitudes, pero quizás en la tecnología es donde la situación sea
-más grave. El STEM es un mundo hecho por los hombres y para los hombres, y cualquier mujer intentado sacar la cabeza es
+más grave. El STEM es un mundo hecho por los hombres y para los hombres, y cualquier mujer intentando sacar la cabeza es
 rechazada. Porque como todo el mundo sabe, a las mujeres se nos dan mal las matemáticas y los ordenadores, y nuestros altibajos
 emocionales tan característicos hacen de nuestros códigos y programas algo poco válido y que no merece ni siquiera un vistazo,
 ¿verdad?
@@ -50,7 +50,7 @@ hacernos escuchar, por difícil que sea:
 
 > "Challenge any and all mansplaining," Ramani told CNBC. "Speak up, even when it's hard."
 
-Si ya os tomáis el tema con humor, en [esta página](http://mansplained.tumblr.com/), mujeres cuentas las experiencias más
+Si ya os tomáis el tema con humor, en [esta página](http://mansplained.tumblr.com/), mujeres cuentan las experiencias más
 disparatadas que han tenido con el mansplaining.
 
 Y si eres un hombre y quieres saber si estás incurriendo en este tipo de micromachismo, [**Barbi**](https://twitter.com/@Barbijaputa) tiene [un artículo](http://www.eldiario.es/zonacritica/como_no_caer_en_un_mansplaining-barbijaputa-aliados_6_539006109.html)
