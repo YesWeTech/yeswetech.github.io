@@ -51,8 +51,7 @@ hacernos escuchar, por difícil que sea:
 Si ya os tomáis el tema con humor, en [esta página](http://mansplained.tumblr.com/), mujeres cuentas las experiencias más
 disparatadas que han tenido con el mansplaining.
 
-Y si eres un hombre y quieres saber si estás incurriendo en este tipo de micromachismo, [**Barbi**]
-(https://twitter.com/@Barbijaputa) tiene [un artículo] (http://www.eldiario.es/zonacritica/como_no_caer_en_un_mansplaining-barbijaputa-aliados_6_539006109.html)
+Y si eres un hombre y quieres saber si estás incurriendo en este tipo de micromachismo, [**Barbi**](https://twitter.com/@Barbijaputa) tiene [un artículo](http://www.eldiario.es/zonacritica/como_no_caer_en_un_mansplaining-barbijaputa-aliados_6_539006109.html)
 que dice:
 > [...] estás preparado para añadir algo al discurso de una feminista cuando no estés movido por la imperiosa necesidad de
 > hacerle saber lo equivocada que está; cuando tu respuesta ante su argumento quiera ser sólo para remarcar que hay partes que se
