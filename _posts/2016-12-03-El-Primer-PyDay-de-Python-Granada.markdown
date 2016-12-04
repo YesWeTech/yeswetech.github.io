@@ -69,7 +69,7 @@ Tras aprender cómo se hacen aplicaciones web con Python, cambiamos el chip para
 
 Braulio nos explicó cómo modelar la solución de nuestro algoritmo y algunos operadores de cruce y selección. Recalcó que en los algoritmos genéticos existe un compromiso entre la eficiciencia del algoritmo y la calidad de la solución que obtenemos y, además, explicó los distintos parámetros del algoritmo. También mencionó algunas aplicaciones reales que tiene.
 
-Por último, nos dio un tutorial hecho por [_AeroPython_](https://github.com/AeroPython/Taller-Algoritmos-Geneticos-PyConEs16) para aprender algoritmos genéticos con Python.
+Por último, Braulio nos proporcionó un enlace al taller de Algoritmos Genéticos hecho e impartido por [_AeroPython_](https://github.com/AeroPython/Taller-Algoritmos-Geneticos-PyConEs16) en la PyConES16 para aprender algoritmos genéticos con Python.
 
 ![tutoriales]({{ site.url }}/assets/pyday/tutoriales.jpg)
 
