@@ -31,3 +31,18 @@ La línea de la presentación siguió por los datos que publicamos en redes soci
 
 ![Presentacion]({{ site.url }}/assets/madrid/pre3.jpg)
 
+Para cerrar el acto, [__Esther Arén__](https://twitter.com/chicageo68) destacó la labor que realiza Silvia con su blog para prevenir delitos en la red, al igual que la cuenta de twitter de la Policía Nacional. Se alegró de que la prevención de delitos tuviera cada vez un papel más importante y describió brevemente la labor de este equipo de la policía.
+
+# Cáterin 
+
+En el cáterin, los asistentes tenían la posibilidad de comprar el libro y, además, llevárselo dedicado por Silvia y, de paso, intercambiar algunas palabras con ella. Estuvo todo el rato dedicada a los asistentes, a firmar los libros y responder a sus preguntas para que se llevaran un buen recuerdo de esa noche. En nuestro caso, le hicimos una pregunta "un pelín" técnica y le contamos el propósito de nuestra asociación. ¡Recibimos un trato muy cercano por su parte y estamos muy agradecidas por ello!
+
+![Caterin]({{ site.url }}/assets/madrid/marta.JPG)
+
+![Caterin]({{ site.url }}/assets/madrid/braulio.JPG)
+
+# Enlaces
+
+* [Entrada sobre este evento en el Blog de Silvia Barrera](http://www.tecnoxplora.com/internet/ciudad-con-ley/silvia-barrera-redes-sociales-estan-encima-jueces-que-deja-desprotegidas-victimas_20161222585bacbf0cf211d2a9f08965.html)
+
+* [Tienda online para comprar el libro](https://sbarrera.es/tienda/libros/claves/)
