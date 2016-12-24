@@ -11,15 +11,15 @@ Tras nuestra última reunión sobre ciberseguridad, [__Silvia Barrera__](https:/
 <blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">Trabajando de camino a Madrid. Vamos a la presentación del libro de <a href="https://twitter.com/sbarrera0">@sbarrera0</a> 😉. Esta tarde estad atentos a nuestros tweets! <a href="https://t.co/suwtYPm6Dw">pic.twitter.com/suwtYPm6Dw</a></p>&mdash; Geek &amp; Tech Girls (@geekandtechgirl) <a href="https://twitter.com/geekandtechgirl/status/811505676849729536">21 de diciembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-La presentación del libro estuvo dividida en dos partes. En primer lugar, [__Carlos Fernández__](https://twitter.com/carfergue) y ella fueron comentando todo el libro en forma de entrevista. En esta parte también participaron algunos de los profesionales que Silvia entrevista en el propio libro. En segundo lugar, tuvo lugar un cáterin donde se podía comprar el libro y además, hablar con los asistentes y la propia Silvia.
+La presentación del libro estuvo dividida en dos partes. En primer lugar, [__Carlos Fernández__](https://twitter.com/carfergue) y ella fueron comentando todo el libro de forma pareceida a como se haría en una entrevista, siendo Carlos el que lanzaba las preguntas y Silvia, respondía a estas. Durante esta primera mitad, participaron algunos de los profesionales que colaboraron con Silvia para escribir el libro, dando su punto de vista a algunas preguntas que lanzaba Carlos. En segundo lugar, tuvo lugar un cáterin donde se podía comprar el libro y además, hablar con los asistentes y con Silvia.
 
 # Presentación del libro
 
 ![Presentacion]({{ site.url }}/assets/madrid/pre1.JPG)
 
-La presentación del libro se realizó en forma de entrevista. En ella, el entrevistador [__Carlos Fernández__](https://twitter.com/carfergue) fue realizando preguntas sobre todos los contenidos del libro a su autora. Así, se analizaron y debatieron todos los contenidos del libro de forma amena y divertida. 
+La presentación del libro se realizó en forma de entrevista, donde [__Carlos Fernández__](https://twitter.com/carfergue) iba realizando preguntas sobre todos los contenidos del libro a su autora. Así, se analizaron y debatieron mcuhos aspectos del libro de forma amena y divertida. 
 
-En primer lugar Silvia nos contó el punto de inflexión, el momento en el que se empezó a darle importancia a los delitos en redes sociales: el asesinato de Isabel Carrasco. En Twitter se hicieron comentarios de todo tipo contra la diputada del PP, la gran mayoría eran faltas de respeto hacia la fallecida. La sociedad empezó a preguntarse si publicar mensajes de ese tipo era delito. Silvia nos contó que es muy difícil saber qué es delito y qué no en internet.
+En primer lugar Silvia nos contó el punto de inflexión, el momento en el que se empezó a darle importancia a los delitos en redes sociales: ***el asesinato de Isabel Carrasco***. En Twitter se hicieron comentarios de todo tipo contra la diputada del PP, la gran mayoría eran faltas de respeto hacia la fallecida, desatándose una ola de odio en Twitter contra una persona, donde había personas cuyos comentarios, eran realmente ofensivos. Fue en este momento cuando la sociedad empezó a preguntarse si publicar mensajes de ese tipo era delito o no, y hasta dónde podían llegar los límites de la libertad de expresión en la red. Silvia nos contó que es muy difícil saber qué es delito y qué no en internet.
 
 > "Por mucho poder que tengamos en la policía, estamos a merced de las redes sociales".
 
