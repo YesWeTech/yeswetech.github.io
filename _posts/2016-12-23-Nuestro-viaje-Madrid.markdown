@@ -6,12 +6,12 @@ categories: ["blog"]
 author: "Marta Gómez Macías y Braulio Vargas López"
 ---
 
-Tras nuestra última reunión sobre ciberseguridad, [__Silvia Barrera__](https://twitter.com/sbarrera0) nos invitó a la presentación de su libro ___Claves de la investigación en Redes Sociales___ que tuvo lugar el pasado miércoles 21 de Diciembre en la Torre de Cristal de Madrid. Sin dudarlo dos veces aceptamos su invitación y nos fuimos de viaje a Madrid.
+Tras nuestra última reunión sobre ciberseguridad, [__Silvia Barrera__](https://twitter.com/sbarrera0) nos invitó a la presentación de su libro ___Claves de la investigación en Redes Sociales___ que tuvo lugar el pasado miércoles 21 de Diciembre en la Torre de Cristal de Madrid. Sin dudarlo dos veces aceptamos su invitación y nos fuimos de viaje.
 
 <blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">Trabajando de camino a Madrid. Vamos a la presentación del libro de <a href="https://twitter.com/sbarrera0">@sbarrera0</a> 😉. Esta tarde estad atentos a nuestros tweets! <a href="https://t.co/suwtYPm6Dw">pic.twitter.com/suwtYPm6Dw</a></p>&mdash; Geek &amp; Tech Girls (@geekandtechgirl) <a href="https://twitter.com/geekandtechgirl/status/811505676849729536">21 de diciembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-La presentación del libro estuvo dividida en dos partes. En primer lugar, [__Carlos Fernández__](https://twitter.com/carfergue) y ella fueron comentando todo el libro en forma de entrevista: él le hacía preguntas sobre el libro y ella las respondía. En esta parte también participaron algunos de los profesionales que Silvia entrevista en el propio libro. En segundo lugar, tuvo lugar un cáterin donde se podía comprar el libro y además, hablar con los asistentes y la propia Silvia.
+La presentación del libro estuvo dividida en dos partes. En primer lugar, [__Carlos Fernández__](https://twitter.com/carfergue) y ella fueron comentando todo el libro en forma de entrevista. En esta parte también participaron algunos de los profesionales que Silvia entrevista en el propio libro. En segundo lugar, tuvo lugar un cáterin donde se podía comprar el libro y además, hablar con los asistentes y la propia Silvia.
 
 # Presentación del libro
 
@@ -27,7 +27,9 @@ En primer lugar Silvia nos contó el punto de inflexión, el momento en el que s
 
 Después, Carlos y Silvia hablaron sobre _Términos y Condiciones_. Contratos que los servicios de internet hacen con los usuarios y éstos no tienen más remedio que aceptar. Si no aceptamos los Términos y Condiciones de una red social, nos quedamos fuera del juego. Al aceptar los términos y condiciones de las redes sociales, le estamos dando muchísimo poder a los proveedores de estos servicios, que juegan con ventaja y en la mayoría de casos, añaden claúsulas abusivas. Muchos usuarios ni siquiera se molestan en leer estos términos y condiciones.
 
-La línea de la presentación siguió por los datos que publicamos en redes sociales, y sobre la información que se puede inferir a partir de los mismos. El hacker [__Deepak Daswani__](https://twitter.com/dipudaswani) llegó a afirmar que podemos inferir muchísima información únicamente a partir de la foto de perfil de WhatsApp de una persona, ya que normalmente un usuario suele tener la misma foto de perfil en varios servicios. Además, el ingeniero [__Vicente Aguilera Díaz__](https://twitter.com/VAguileraDiaz) destacó que hoy en día se procesa una cantidad enorme de datos, tenemos prácticamente sobreinformación y casi todas las investigaciones actuales se centran en cómo obtener información útil a partir de la gran cantidad de datos de los que disponemos.
+A continuación, se empezó a debatir sobre los datos que publicamos en redes sociales, y sobre la información que se puede inferir a partir de los mismos. El hacker [__Deepak Daswani__](https://twitter.com/dipudaswani) llegó a afirmar que podemos inferir muchísima información únicamente a partir de la foto de perfil de WhatsApp de una persona, ya que normalmente un usuario suele tener la misma foto de perfil en varios servicios. Además, el experto en ciberseguridad [__Vicente Aguilera Díaz__](https://twitter.com/VAguileraDiaz) destacó que hoy en día se procesa una cantidad enorme de datos, tenemos prácticamente sobreinformación y casi todas las investigaciones actuales se centran en cómo obtener información útil a partir de la gran cantidad de datos de los que disponemos.
+
+Y por último, para concluir este debate sobre datos disponibles en la red, [__Félix Brezo__](https://twitter.com/febrezo) y [__Yaiza Rubio__](https://twitter.com/yrubiosec) nos hablaron de la herramienta que han desarrollado: [_OSRFramework_](https://github.com/i3visio/osrframework). Una herramienta que sirve para realizar tareas de ingeligencia en fuentes abiertas y realiza búsquedas por nombre de usuario en numerosas aplicaciones, en la deep web o en datos de empresas que han sido hackeadas.
 
 ![Presentacion]({{ site.url }}/assets/madrid/pre3.jpg)
 
@@ -40,6 +42,8 @@ En el cáterin, los asistentes tenían la posibilidad de comprar el libro y, ade
 ![Caterin]({{ site.url }}/assets/madrid/marta.JPG)
 
 ![Caterin]({{ site.url }}/assets/madrid/braulio.JPG)
+
+Nos fuimos muy felices de haber hecho un viaje desde Granada para asistir a este evento. Además, hubo muchísimas mujeres entre el público y muchas profesionales que han participado en este libro. Aprendimos un montón y además, como habéis podido comprobar, se debatieron un montón de temas muy interesantes.  
 
 # Enlaces
 
