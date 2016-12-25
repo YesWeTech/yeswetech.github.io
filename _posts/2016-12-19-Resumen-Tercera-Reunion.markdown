@@ -6,7 +6,7 @@ categories: ["blog"]
 author: "Marta Gómez Macías"
 ---
 
-El pasado sábado 17 de Noviembre tuvo lugar nuestra tercera reunión, que, como siempre, estuvo divida en dos partes: en primer lugar, [_Paula de la Hoz Garrido_](https://twitter.com/Terceranexus6) hizo una presentación sobre la ciberseguridad (historia del hacking, industria, cómo empezar, mujeres en este mundillo, etc) y en segundo lugar, hicimos un pequeño debate sobre la situación de la mujer en la ciberseguridad.
+El pasado sábado 17 de Diciembre tuvo lugar nuestra tercera reunión, que, como siempre, estuvo divida en dos partes: en primer lugar, [_Paula de la Hoz Garrido_](https://twitter.com/Terceranexus6) hizo una presentación sobre la ciberseguridad (historia del hacking, industria, cómo empezar, mujeres en este mundillo, etc) y en segundo lugar, hicimos un pequeño debate sobre la situación de la mujer en la ciberseguridad.
 
 # Charla sobre ciberseguridad
 
