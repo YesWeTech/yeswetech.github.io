@@ -16,7 +16,7 @@ __¿Quién puede asistir?__ Todo el mundo, ya que el nivel es básico y sirve de
 
 La reunión tendrá lugar el día 20 de enero a las 19 horas en la Facultad de Ciencias. En esta ocasión hemos tenido que cambiar el aula en la que nos reunimos habitualmente, siendo esta vez en el aula B-01, ubicada en la parte de Biología. En la página de la Facultad de Ciencias encontramos el siguiente mapa:
 
-![Mapa]({{ http://fciencias.ugr.es/facultad }}/assets/planoWebciencias.jpg)
+[![Mapa]({{ site.url }}/assets/planoWebciencias.jpg)](http://fciencias.ugr.es/facultad)
 
 El aula estaría ubicada en la zona verde oscuro a la derecha del Hall.
 Si tienes alguna duda no esperes y ¡escríbenos!
@@ -24,3 +24,5 @@ Si tienes alguna duda no esperes y ¡escríbenos!
 __¡Allí nos vemos!__
 
 Puedes apuntarte [aquí](https://www.meetup.com/es-ES/Granada-Geek/events/236787520/)
+
+![Cartel]({{ site.url }}/assets/gatweb.png)
