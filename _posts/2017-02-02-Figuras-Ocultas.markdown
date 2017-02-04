@@ -16,7 +16,8 @@ Pero no es sólo una película sobre la vida de tres personas ordinarias.
 
 Es una película sobre cómo tres mujeres consiguieron derribar a sus opresores y llegar a donde ninguna mujer negra había llegado hasta entonces.
 
-[![Trailer de la película](https://i.ytimg.com/vi/5wfrDhgUMGI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=HCAE5i5pQFj_0DByZD9FpXAaLE8)](https://www.youtube.com/watch?v=06TDLCrr6oU)
+(Click a la imagen para ver el trailer)
+[![Trailer de la película](http://newcinema.es/imagenes/2016/12/Figuras-Ocultas_Poster.jpg)](https://www.youtube.com/watch?v=06TDLCrr6oU)
 
 ### Katherine
 
