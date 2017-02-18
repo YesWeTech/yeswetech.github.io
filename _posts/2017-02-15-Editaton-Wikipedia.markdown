@@ -1,7 +1,7 @@
 ---
 layout: post
-title:"Editatón de la Wikipedia"
-date:   2017-02-15
+title: "Editatón de la Wikipedia"
+date: 2017-02-15
 categories: ["blog"]
 author: "Teresa Algarra"
 ---
