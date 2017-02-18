@@ -1,7 +1,7 @@
 ---
 layout: post
-title:"Figuras Ocultas"
-date:   2017-02-02
+title: "Figuras Ocultas"
+date: 2017-02-02
 categories: ["blog"]
 author: "Teresa Algarra"
 ---
@@ -14,9 +14,10 @@ Hace poco se estrenó en el cine la película [Figuras Ocultas](https://es.wikip
 
 Pero no es sólo una película sobre la vida de tres personas ordinarias.
 
-El una película sobre cómo tres mujeres consiguieron derribar a sus opresores y llegar a donde ninguna mujer negra había llegado hasta entonces.
+Es una película sobre cómo tres mujeres consiguieron derribar a sus opresores y llegar a donde ninguna mujer negra había llegado hasta entonces.
 
-[![Trailer de la película](https://i.ytimg.com/vi/5wfrDhgUMGI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=HCAE5i5pQFj_0DByZD9FpXAaLE8)](https://www.youtube.com/watch?v=06TDLCrr6oU)
+(Click a la imagen para ver el trailer)
+[![Trailer de la película](http://newcinema.es/imagenes/2016/12/Figuras-Ocultas_Poster.jpg)](https://www.youtube.com/watch?v=06TDLCrr6oU)
 
 ### Katherine
 
@@ -25,7 +26,7 @@ El una película sobre cómo tres mujeres consiguieron derribar a sus opresores 
 
 La protagonista de la película es [**Katherine Johnson**](https://es.wikipedia.org/wiki/Katherine_Johnson),cuyo nombre de soltera era Katherine Coleman. Hija de dos ciudadanos afroamericanos de clase baja, desde pequeña demostró su gran talento para las matemáticas. Se graduó con tan solo 14 años de la escuela secundaria y con 15 ya entró a formar parte de la Universidad Estatal de Virginia Occidental, de la que se graduó en matemáticas y francés a los 18 años con mención de honor. Un año después, fue seleccionada para realizar los estudios de postgrado en la misma universidad, siendo la única mujer de los tres estudiantes afroamericanos que rompieron con el esquema de la segregación en una universidad para blancos. A pesar de su intachable trayectoria, entró como calculadora para la NASA en la sección de mujeres negras. Su trabajo consistía en hacer los cálculos que a día de hoy pueden hacer los ordenadores a mano, lo cuál, como el lector comprenderá, puede llegar a exasperar a cualquiera.
 
-Afortunadamente, fue asignada al departamento encargado del lanzamiento, trayectoria y aterizaje de las naves que iban a lanzar a los americanos al espacio y, posteriormete, a la Luna. No fue fácil, fue la primera mujer negra que trabajó en el departamento, la segregación todavía al orden del día, pero finalmente consiguió hacerse valer. Katherine se convirtió en un miembro indispensable del equipo, y calculó la trayectoria para el [Proyecto Mercury](https://es.wikipedia.org/wiki/Proyecto_Mercury) y el [Apolo 11](https://es.wikipedia.org/wiki/Apolo_11), siendo ahora un referente para todas las mujeres, especialmente las de color, que quieren llegar a tener un papel importante en la historia de la exploración espacial.
+Afortunadamente, fue asignada al departamento encargado del lanzamiento, trayectoria y aterrizaje de las naves que iban a lanzar a los americanos al espacio y, posteriormete, a la Luna. No fue fácil, fue la primera mujer negra que trabajó en el departamento, la segregación todavía al orden del día, pero finalmente consiguió hacerse valer. Katherine se convirtió en un miembro indispensable del equipo, y calculó la trayectoria para el [Proyecto Mercury](https://es.wikipedia.org/wiki/Proyecto_Mercury) y el [Apolo 11](https://es.wikipedia.org/wiki/Apolo_11), siendo ahora un referente para todas las mujeres, especialmente las de color, que quieren llegar a tener un papel importante en la historia de la exploración espacial.
 
 ### Mary
 
@@ -47,7 +48,7 @@ Con la llegada de los computadores a la NASA se preveía el fin de las mujeres c
 
 ![Escena con todas las calculadoras del ala Oeste](https://static1.squarespace.com/static/57851319893fc03407e46466/t/57a8820f5016e1838cdc8fb6/1470661433450/Hidden+FIgures+West+Computers+In+Office.jpg?format=1500w)
 
-La película, dirigida por Theodore Melfi y escrita por Melfi y Allison Schroeder, está basada en el [libro](https://www.amazon.com/Hidden-Figures-American-Untold-Mathematicians/dp/006236359X) de [Margot Lee Shetterly](http://margotleeshetterly.com/). La fidelidad de este libro a la realidad de las mujeres negras en los Estados Unidos a mitad de siglo XX y de cómo se vivió dentro de la NASA la carrera espacial lo hacen una lectura abrumadora y a la vez . Una historia emotiva y que demuestra que nunca debemos rendirnos y que hemos de luchas por nuestros sueños, se ponga quien se ponga en nuestro camino, por que si ellas pudieron, nosotras también.
+La película, dirigida por Theodore Melfi y escrita por Melfi y Allison Schroeder, está basada en el [libro](https://www.amazon.com/Hidden-Figures-American-Untold-Mathematicians/dp/006236359X) de [Margot Lee Shetterly](http://margotleeshetterly.com/). La fidelidad de este libro a la realidad de las mujeres negras en los Estados Unidos a mitad de siglo XX y de cómo se vivió dentro de la NASA la carrera espacial lo hacen una lectura abrumadora y a la vez vibrante. Una historia emotiva y que demuestra que nunca debemos rendirnos y que hemos de luchar por nuestros sueños, se ponga quien se ponga en nuestro camino, porque si ellas pudieron, nosotras también.
 
 Por Katherine, Mary y Dorothy.
 
