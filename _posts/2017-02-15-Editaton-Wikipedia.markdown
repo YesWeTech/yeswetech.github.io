@@ -14,7 +14,7 @@ Sin embargo, el objetivo de esta entrada del blog es hablar de la actividad orga
 
 La estructura de un editatón es muy simple: se dan directrices y manuales sobre cómo escribir o editar un artículo en la Wikipedia, se redacta una lista de artículos pendientes de reforma o creación, ¡y a trabajar! En [esta página](https://es.wikipedia.org/wiki/Wikipedia:Encuentros) se pueden ver todos los editatones programados en España, los artículos a tratar y los participantes, como [el nuestro](https://es.wikipedia.org/wiki/Wikipedia:Encuentros/Editat%C3%B3n_D%C3%ADa_Internacional_de_la_Mujer_y_la_Ni%C3%B1a_en_la_Ciencia_(Granada)). ¡También podéis ver el resultado final de todo lo que hicimos!
 
-![Resultados finales disponibles en la página](images/2017-02-15-Editaton-Wikipedia.png)
+![Resultados finales disponibles en la página]({{ site.url }}/assets/2017-02-15-Editaton-Wikipedia.png)
 
 Desde la OSL hicieron una guía muy simple y amena que podéis leer [aquí](http://osl.ugr.es/2017/02/10/editatonforbeginners/) ya que la mayoría de los que íbamos éramos nuevos en el tema. Además, podéis consultar los manuales de forma oficiales [aquí](https://es.wikipedia.org/wiki/Ayuda:Introducci%C3%B3no) y [aquí](https://es.wikipedia.org/wiki/Wikipedia:Manual_de_estilo).
 
