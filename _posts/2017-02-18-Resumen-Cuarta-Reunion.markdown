@@ -38,4 +38,4 @@ Respecto a esto, uno de los asistentes comentó que las mujeres más brillantes 
 
 ¡Os dejamos con una hilarante viñeta de Pikara Magazine sobre cómo respetar un espacio no mixto! La encontraréis [aquí](http://www.pikaramagazine.com/2016/03/guia-practica-para-respetar-un-espacio-no-mixto/).
 
-![final]({{ site.url }}/assets/programacionweb/7.jpg)
+![final]({{ site.url }}/assets/programacionweb/7.JPG)
