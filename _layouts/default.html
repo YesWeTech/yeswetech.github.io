@@ -46,10 +46,15 @@ layout: compress
     </div>
     <footer class="header">
         <nav class="links">
-            <a href="#"><i class="fa fa-twitter-square fa-3x"></i></a>
-            <a href="#"><i class="fa fa-instagram fa-3x"></i></a>
-            <a href="#"><i class="fa fa-facebook-square fa-3x"></i></a>
-            <a href="#"><i class="fa fa-tumblr-square fa-3x"></i></a>
+            {% if site.github_username %}
+                <a href="https://github.com/{{ site.github_username }}"><i class="fa fa-github fa-3x"></i></a>
+            {% endif %}
+            {% if site.twitter_username %}
+                <a href="https://twitter.com/{{ site.twitter_username }}"><i class="fa fa-twitter-square fa-3x"></i></a>
+            {% endif %}
+            {% if site.facebook_username %}
+                <a href="https://www.facebook.com/{{site.facebook_username}}"><i class="fa fa-facebook-square fa-3x"></i></a>
+            {% endif %}
         </nav>
     </footer>
     <!-- /container -->

@@ -237,7 +237,10 @@ a {
 	outline: none;
 }
 
-a:hover,
+.body a:hover {
+	color: #0080FF;
+}
+
 a:focus {
 	color: #3b393d;
 }
@@ -296,6 +299,10 @@ footer {
 .links a {
 	display: inline-block;
 	margin: 0 .5em;
+}
+
+.links a:hover {
+	color: #fff;
 }
 
 /* cards wrapper and close btn */
