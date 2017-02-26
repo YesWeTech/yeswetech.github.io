@@ -218,6 +218,24 @@ img {
 	width: 100%;
 }
 
+@-webkit-keyframes fadeIn {
+    from { opacity: 0; }
+      to { opacity: 1; }
+}  
+@keyframes fadeIn {
+    from { opacity: 0; }
+      to { opacity: 1; }
+}
+
+#aboutus {
+	display: none;
+	width: 60%;
+	text-align: center;
+	margin: auto;
+	webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+
 body.body--hidden {
 	overflow: hidden;
 }
@@ -242,7 +260,7 @@ a {
 }
 
 .header a:hover {
-	color: #A4A4A4;
+	color: #de6551;
 }
 
 a:focus {

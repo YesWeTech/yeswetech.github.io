@@ -43,6 +43,11 @@ var demo = (function (window) {
     var events_filter = false;
 
     /**
+    *   Variable to control if information about blog is being shown or not
+    */
+    var info_shown = false;
+
+    /**
      * Container of Card instances.
      */
     var layout = {};
@@ -187,9 +192,9 @@ var demo = (function (window) {
     */
 
     var _filterEvents = function() {
-        if (!events_filter) {
+        if (!events_filter && !info_shown) {
             events_filter = true;
-        } else {
+        } else if (events_filter && !info_shown) {
             events_filter = false;
         }
 
@@ -198,10 +203,43 @@ var demo = (function (window) {
                 var card = layout[i].card;
                 
                 if (card._content.childNodes[3].childNodes[3].childNodes[0].nodeValue != "Evento") {
-                    if (events_filter) card.hideCard();
-                    else card.showCard();
+                    if (events_filter && !info_shown) card.hideCard();
+                    else if (!events_filter && !info_shown) card.showCard();
                 }
             }
+        }
+    };
+
+
+    document.getElementById("aboutLink").onclick = function() {_showBlogInfo()};
+    /**
+    *   Show all blog posts and show information about the blogger
+    */
+    var _showBlogInfo = function() {
+        if (!info_shown && !events_filter) {
+            info_shown = true;
+        } else if (info_shown && !events_filter) {
+            info_shown = false;
+        }
+
+        for (var i in layout) {
+            if (layout.hasOwnProperty(i)) {
+                var card = layout[i].card;
+
+                if (info_shown && !events_filter) card.hideCard();
+                else if (!info_shown && !events_filter) card.showCard();
+            }
+        }
+
+        var about_us_div = document.getElementById("aboutus");
+        var content_div = document.getElementById("cartas");
+        if (info_shown && !events_filter) {
+            content_div.style.display = "none";
+            about_us_div.style.display = "block";
+        }
+        else if (!info_shown && !events_filter) {
+            about_us_div.style.display = "none";
+            content_div.style.display = "block";
         }
     };
 

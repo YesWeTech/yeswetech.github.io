@@ -34,22 +34,36 @@ layout: compress
             <span class="exclamationMark">/</span>
 
             <a id="eventosLink" href="#">Eventos</a><span class="exclamationMark">/</span>
+            <a id="aboutLink" href="#">Sobre nosotras</a><span class="exclamationMark">/</span>
 
         </nav>
     </header>
     <div class="content">
         {{ content }}
     </div>
+
+    <div id="aboutus" class="content">
+        <h2>Geek & Tech Girls</h2>
+        <h3>Granada</h3>
+
+       <p>Comunidad que a través del Software Libre acerca la tecnología a mujeres de todas las edades, a la vez que lucha por una sociedad igualitaria e inclusiva.</p> 
+
+       <p>Porque somos <b>Tech</b>, somos <b>Geek</b>, y somos <b>Girls</b>.</p>
+
+       <h3>¿Qué hacemos?</h3>
+       <p>Somos un grupo dedicado a tratar temas relacionados con el papel de la mujer en la tecnología. Creemos en la igualdad y por ello queremos animar a las chicas a desarrollar su pasión por la informática y la tecnología. Hacemos charlas, eventos, reuniones y debatimos a través de nuesto grupo de Telegram. Queremos ofrecer un grupo amigable, cercano y dinámico a aquellas chicas que quieran compartir y aprender conocimiento, ideas y opinión. </p>
+    </div>
+
     <footer class="header">
         <nav class="links">
             {% if site.github_username %}
-                <a href="https://github.com/{{ site.github_username }}"><i class="fa fa-github fa-3x"></i></a>
+                <a href="https://github.com/{{ site.github_username }}" target="_blank"><i class="fa fa-github fa-3x"></i></a>
             {% endif %}
             {% if site.twitter_username %}
-                <a href="https://twitter.com/{{ site.twitter_username }}"><i class="fa fa-twitter-square fa-3x"></i></a>
+                <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank"><i class="fa fa-twitter-square fa-3x"></i></a>
             {% endif %}
             {% if site.facebook_username %}
-                <a href="https://www.facebook.com/{{site.facebook_username}}"><i class="fa fa-facebook-square fa-3x"></i></a>
+                <a href="https://www.facebook.com/{{site.facebook_username}}" target="_blank"><i class="fa fa-facebook-square fa-3x"></i></a>
             {% endif %}
         </nav>
     </footer>
