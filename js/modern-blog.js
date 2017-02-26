@@ -38,6 +38,11 @@ var demo = (function (window) {
     };
 
     /**
+    *   Variable to control if events are being filtered or not
+    */
+    var events_filter = false;
+
+    /**
      * Container of Card instances.
      */
     var layout = {};
@@ -177,17 +182,24 @@ var demo = (function (window) {
 
     document.getElementById("eventosLink").onclick = function() {_filterEvents()};
 
-    /*
-    Filter all posts that are events
+    /**
+    *   Filter all posts that are events or unfilter them all if it's been already filtered
     */
-    var _filterEvents = function() {
-        for (var i in layout) {
 
+    var _filterEvents = function() {
+        if (!events_filter) {
+            events_filter = true;
+        } else {
+            events_filter = false;
+        }
+
+        for (var i in layout) {
             if (layout.hasOwnProperty(i)) {
                 var card = layout[i].card;
-                console.log(card)
+                
                 if (card._content.childNodes[3].childNodes[3].childNodes[0].nodeValue != "Evento") {
-                    card.hideCard();
+                    if (events_filter) card.hideCard();
+                    else card.showCard();
                 }
             }
         }
