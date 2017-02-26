@@ -1,5 +1,6 @@
 ---
 title:  "La importancia de la privacidad en internet"
+subtitle: " "
 date:   2016-11-17 
 categories: ["blog"]
 author: "Paula de la Hoz"

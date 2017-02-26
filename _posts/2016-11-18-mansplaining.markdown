@@ -1,5 +1,6 @@
 ---
 title:  "Mansplaining en la Tecnología"
+subtitle: " "
 date:   2016-11-18
 categories: ["blog"]
 author: "Teresa Algarra"

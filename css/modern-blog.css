@@ -241,6 +241,10 @@ a {
 	color: #0080FF;
 }
 
+.header a:hover {
+	color: #A4A4A4;
+}
+
 a:focus {
 	color: #3b393d;
 }

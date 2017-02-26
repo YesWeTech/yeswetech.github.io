@@ -175,6 +175,24 @@ var demo = (function (window) {
         sequence.play();
     };
 
+    document.getElementById("eventosLink").onclick = function() {_filterEvents()};
+
+    /*
+    Filter all posts that are events
+    */
+    var _filterEvents = function() {
+        for (var i in layout) {
+
+            if (layout.hasOwnProperty(i)) {
+                var card = layout[i].card;
+                console.log(card)
+                if (card._content.childNodes[3].childNodes[3].childNodes[0].nodeValue != "Evento") {
+                    card.hideCard();
+                }
+            }
+        }
+    };
+
     /**
      * Show/Hide all other cards.
      * @param {number} id The id of the clcked card to be avoided.
@@ -187,7 +205,6 @@ var demo = (function (window) {
         var selectedCard = layout[id].card;
 
         for (var i in layout) {
-
             if (layout.hasOwnProperty(i)) {
                 var card = layout[i].card;
 
