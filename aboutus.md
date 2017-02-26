@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: compress
 title : Sobre nosotras
 permalink: /aboutus/
 ---

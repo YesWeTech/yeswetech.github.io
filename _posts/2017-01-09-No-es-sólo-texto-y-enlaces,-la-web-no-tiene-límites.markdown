@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "No es sólo texto y enlaces, la web no tiene límites"
 date: 2017-01-09 10:55:49::00 +0530
 categories: ["eventos"]

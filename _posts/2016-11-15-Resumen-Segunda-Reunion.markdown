@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Resumen de la segunda reunión de Geek & Tech Girls"
 date:   2016-11-15 10:00::00 +0530
 categories: ["blog"]

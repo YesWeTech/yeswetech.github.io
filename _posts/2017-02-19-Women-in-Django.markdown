@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Women in Django"
 date: 2017-02-19
 categories: ["blog"]

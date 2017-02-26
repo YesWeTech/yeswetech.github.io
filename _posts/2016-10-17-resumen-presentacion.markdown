@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Resumen del acto de presentación de Geek & Tech Girls"
 date:   2016-10-17 23:31::00 +0530
 categories: ["blog"]

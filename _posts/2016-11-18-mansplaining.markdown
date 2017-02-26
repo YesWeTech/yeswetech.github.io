@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Mansplaining en la Tecnología"
 date:   2016-11-18
 categories: ["blog"]

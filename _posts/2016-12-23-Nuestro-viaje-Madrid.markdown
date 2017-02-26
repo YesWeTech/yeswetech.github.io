@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Nuestro pequeño viaje a Madrid"
 date:   2016-12-23 16:23::00 +0530
 categories: ["blog"]

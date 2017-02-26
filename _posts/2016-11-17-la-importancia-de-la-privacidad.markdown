@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "La importancia de la privacidad en internet"
 date:   2016-11-17 
 categories: ["blog"]

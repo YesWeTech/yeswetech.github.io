@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "El primer PyDay de Python Granada"
 date:   2016-12-3 19:50::00 +0530
 categories: ["blog"]

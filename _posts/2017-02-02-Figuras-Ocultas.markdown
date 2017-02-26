@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Figuras Ocultas"
 date: 2017-02-02
 categories: ["blog"]

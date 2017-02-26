@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Hola Mundo! Mi primer post!"
 date:   2016-10-15 00:56::00 +0530
 categories: ["blog"]

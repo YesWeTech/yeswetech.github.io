@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Presentación Geek & Tech Girls"
 date: 2016-10-31 16:37:37::00 +0530
 categories: ["eventos"]

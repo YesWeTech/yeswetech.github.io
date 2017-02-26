@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Segunda reunión Geek & Tech Girls"
 date: 2016-11-03 08:58:14::00 +0530
 categories: ["eventos"]

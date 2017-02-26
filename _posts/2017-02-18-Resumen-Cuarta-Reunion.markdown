@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Resumen de la cuarta reunión de Geek & Tech Girls"
 date:   2017-02-18 21:00::00 +0530
 categories: ["blog"]

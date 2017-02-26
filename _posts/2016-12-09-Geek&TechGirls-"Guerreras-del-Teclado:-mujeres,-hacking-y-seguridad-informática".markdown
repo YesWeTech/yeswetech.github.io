@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Geek&TechGirls Guerreras del Teclado: mujeres, hacking y seguridad informática"
 date: 2016-12-09 12:45:48::00 +0530
 categories: ["eventos"]

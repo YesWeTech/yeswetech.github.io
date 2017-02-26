@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Taller sobre Python y Django"
 date: 2017-01-12 15:45:00::00 +0530
 categories: ["eventos"]

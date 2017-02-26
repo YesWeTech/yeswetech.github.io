@@ -202,9 +202,6 @@
 	clear: both;
 }
 
-
-@import url('https://fonts.googleapis.com/css?family=Pacifico');
-
 body {
 	font-family: Avenir, 'Helvetica Neue', 'Lato', 'Segoe UI', Helvetica, Arial, sans-serif;
 	line-height: 1.5;
@@ -272,8 +269,12 @@ footer {
 	text-align: center;
 }
 
+
+h1 {
+    font-family: 'Pacifico', cursive;
+}
+
 .header h1 {
-	font-family: 'Pacifico';
 	font-size: 3em;
 	font-weight: 400;
 	line-height: 1.2;
