@@ -1,8 +1,11 @@
 ---
 title: "Segunda reunión Geek & Tech Girls"
+subtitle: "Evento"
 date: 2016-11-03 08:58:14::00 +0530
 categories: ["eventos"]
 author: "Geek & Tech Girls"
+avatar: img/authors/geekandtechgirls.png
+image: img/eventos.jpg
 ---
 
 ## Evento: Segunda reunión Geek & Tech Girls

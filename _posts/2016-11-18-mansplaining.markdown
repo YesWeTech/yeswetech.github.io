@@ -3,6 +3,8 @@ title:  "Mansplaining en la Tecnología"
 date:   2016-11-18
 categories: ["blog"]
 author: "Teresa Algarra"
+avatar: img/authors/teresa.jpe
+image: https://static01.nyt.com/images/2016/04/21/opinion/21baird/21baird-master768.jpg
 ---
 # Mansplaining, o como menospreciar el conocimiento de las mujeres.
 

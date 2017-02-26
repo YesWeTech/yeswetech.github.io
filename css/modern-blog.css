@@ -214,6 +214,10 @@ body {
 	overflow-y: scroll;
 }
 
+img {
+	width: 100%;
+}
+
 body.body--hidden {
 	overflow: hidden;
 }
@@ -269,12 +273,8 @@ footer {
 	text-align: center;
 }
 
-
-h1 {
-    font-family: 'Pacifico', cursive;
-}
-
 .header h1 {
+	font-family: 'Pacifico', cursive;
 	font-size: 3em;
 	font-weight: 400;
 	line-height: 1.2;

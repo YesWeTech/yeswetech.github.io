@@ -1,8 +1,11 @@
 ---
 title:  "El primer PyDay de Python Granada"
+subtitle: "Una tarde con la comunidad Python granadina"
 date:   2016-12-3 19:50::00 +0530
 categories: ["blog"]
 author: "Marta Gómez Macías"
+avatar: img/authors/marta.jpe
+image: assets/pyday/busquedaspython.jpg
 ---
 
 Ayer, día 2 de Diciembre, se celebró el primer _PyDay_ de la asociación ___Python Granada___ para darse a conocer entre la comunidad local. Nosotras estuvimos allí y animamos por nuestras redes sociales a las chicas para que se acercasen. En general, hubo más público femenino de lo normal en este tipo de eventos, ¡lo cual nos encanta!

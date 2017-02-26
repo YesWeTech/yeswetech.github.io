@@ -1,8 +1,11 @@
 ---
-title:  "Resumen de la cuarta reunión de Geek & Tech Girls"
+title: "Mucho más que texto y enlaces"
+subtitle:  "Resumen de la cuarta reunión de Geek & Tech Girls"
 date:   2017-02-18 21:00::00 +0530
 categories: ["blog"]
 author: "Marta Gómez Macías y Teresa Algarra Ulierte"
+avatar: img/authors/geekandtechgirls.png
+image: assets/programacionweb/7.JPG
 ---
 
 El pasado viernes 20 de Enero tuvo lugar nuestra cuarta reunión, que, como siempre estuvo divida en dos partes: en primer lugar, [__Patricia Juárez Muñoz__](https://twitter.com/ccsakuweb) hizo una presentación sobre desarrollo web (html, css, javascript...) y en segundo lugar, hicimos un pequeño debate sobre la dificultad de encontrar mujeres influyentes o con altos puestos en empresas relacionadas con la web.

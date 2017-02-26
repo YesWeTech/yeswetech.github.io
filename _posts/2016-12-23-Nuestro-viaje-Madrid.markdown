@@ -1,8 +1,11 @@
 ---
 title:  "Nuestro pequeño viaje a Madrid"
+subtitle: "Presentación del libro 'Claves en la investigación en redes sociales'"
 date:   2016-12-23 16:23::00 +0530
 categories: ["blog"]
 author: "Marta Gómez Macías y Braulio Vargas López"
+avatar: img/authors/geekandtechgirls.png
+image: assets/madrid/pre2.JPG
 ---
 
 Tras nuestra última reunión sobre ciberseguridad, [__Silvia Barrera__](https://twitter.com/sbarrera0) nos invitó a la presentación de su libro ___Claves de la investigación en Redes Sociales___ que tuvo lugar el pasado miércoles 21 de Diciembre en la Torre de Cristal de Madrid. Sin dudarlo dos veces aceptamos su invitación y nos fuimos de viaje.
