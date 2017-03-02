@@ -76,6 +76,7 @@
 	-webkit-transform: translateY(-100%);
 	-ms-transform: translateY(-100%);
 	transform: translateY(-100%);
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 .card__title {
@@ -83,6 +84,7 @@
 	line-height: 1;
 	margin: 5px 0 0 0;
 	color: #3b393d;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 .card__container--closed .card__title {
