@@ -1,9 +1,12 @@
 ---
 layout: post
 title: "Feminismo 101"
+subtitle: "Quinta reunión de Geek & Tech Girls"
 date: 2017-03-18 09:26:49::00 +0530
 categories: ["eventos"]
 author: "Geek & Tech Girls"
+avatar: img/authors/geekandtechgirls.png
+image: img/poster1w.jpg
 ---
 
 ## Evento: Feminismo 101
