@@ -42,7 +42,7 @@ def main():
     # Writing the post
     post = open(postFilename, 'w')
     # Head
-    post.write("---\nlayout: post\ntitle: \""+theJSON['name']+"\"\ndate: "+time.strftime("%Y-%m-%d %H:%M:%S")+"::00 +0530"+"\ncategories: [\"eventos\"]\nauthor: \"Geek & Tech Girls\"\n---")
+    post.write("---\nlayout: post\ntitle: \""+theJSON['name']+"\"\nsubtitle:\"Evento\"\ndate: "+time.strftime("%Y-%m-%d %H:%M:%S")+"::00 +0530"+"\ncategories: [\"eventos\"]\nauthor: \"Geek & Tech Girls\"\navatar: img/authors/geekandtechgirls.png\nimage: img/eventos.jpg\n---")
     # Post title
     post.write("\n\n## Evento: "+theJSON['name']+"\n\n")
     # Description

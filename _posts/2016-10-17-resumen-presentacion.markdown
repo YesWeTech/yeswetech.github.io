@@ -1,9 +1,11 @@
 ---
-layout: post
-title:  "Resumen del acto de presentación de Geek & Tech Girls"
+title:  "Nuestra presentación"
+subtitle: "Resumen del acto de presentación de Geek & Tech Girls"
 date:   2016-10-17 23:31::00 +0530
 categories: ["blog"]
 author: "Marta Gómez Macías"
+avatar: img/authors/marta.jpe
+image: assets/foto_final.jpg
 ---
 
 El pasado 11 de Octubre se celebró el día de __Ada Lovelace__ a nivel mundial y nosotras aprovechamos la ocasión para hacer nuestro acto de presentación al público. ¿Qué mejor día para iniciar una iniciativa como esta que el día dedicado a la primera programadora? 

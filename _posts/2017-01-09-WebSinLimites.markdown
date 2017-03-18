@@ -1,9 +1,11 @@
 ---
-layout: post
 title: "No es sólo texto y enlaces, la web no tiene límites"
+subtitle: "Evento"
 date: 2017-01-09 10:55:49::00 +0530
 categories: ["eventos"]
 author: "Geek & Tech Girls"
+avatar: img/authors/geekandtechgirls.png
+image: img/eventos.jpg
 ---
 
 ## Evento: No es sólo texto y enlaces, la web no tiene límites

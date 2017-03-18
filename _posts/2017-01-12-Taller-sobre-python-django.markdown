@@ -1,9 +1,11 @@
 ---
-layout: post
 title: "Taller sobre Python y Django"
+subtitle: "Evento"
 date: 2017-01-12 15:45:00::00 +0530
 categories: ["eventos"]
 author: "Geek & Tech Girls"
+avatar: img/authors/geekandtechgirls.png
+image: img/eventos.jpg
 ---
 
 ## Evento: Taller sobre Python y Django

@@ -1,9 +1,11 @@
 ---
-layout: post
 title:  "La importancia de la privacidad en internet"
+subtitle: " "
 date:   2016-11-17 
 categories: ["blog"]
 author: "Paula de la Hoz"
+avatar: img/authors/paula.jpe
+image: http://www.elpelicultista.com/wp-content/uploads/2015/04/tiempos-modernos-1.jpg
 ---
 # Tiempos modernos
 ![Image of Charles](http://www.elpelicultista.com/wp-content/uploads/2015/04/tiempos-modernos-1.jpg)

@@ -1,9 +1,11 @@
 ---
-layout: post
-title:  "Resumen de la tercera reunión de Geek & Tech Girls"
+title: "Guerreras del teclado"
+subtitle:  "Resumen de la tercera reunión de Geek & Tech Girls"
 date:   2016-12-19 18:00::00 +0530
 categories: ["blog"]
 author: "Marta Gómez Macías"
+avatar: img/authors/marta.jpe
+image: assets/ciberseguridad/presentacion3_1.JPG
 ---
 
 El pasado sábado 17 de Diciembre tuvo lugar nuestra tercera reunión, que, como siempre, estuvo divida en dos partes: en primer lugar, [_Paula de la Hoz Garrido_](https://twitter.com/Terceranexus6) hizo una presentación sobre la ciberseguridad (historia del hacking, industria, cómo empezar, mujeres en este mundillo, etc) y en segundo lugar, hicimos un pequeño debate sobre la situación de la mujer en la ciberseguridad.

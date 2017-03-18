@@ -1,9 +1,11 @@
 ---
-layout: post
 title: "Editatón de la Wikipedia"
+subtitle: "Celebrando el 11 de Febrero con la OSL"
 date: 2017-02-15 
 categories: ["blog"]
 author: "Teresa Algarra"
+avatar: img/authors/teresa.jpe
+image: img/wikipedia.jpe
 ---
 
 # Editatón de la Wikipedia "Día internacional de la Mujer y la Niña en la Ciencia"

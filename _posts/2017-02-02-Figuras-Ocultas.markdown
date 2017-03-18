@@ -1,9 +1,11 @@
 ---
-layout: post
 title: "Figuras Ocultas"
+subtitle: "Un resumen de la película"
 date: 2017-02-02
 categories: ["blog"]
 author: "Teresa Algarra"
+avatar: img/authors/teresa.jpe
+image: https://static1.squarespace.com/static/57851319893fc03407e46466/t/57a8820f5016e1838cdc8fb6/1470661433450/Hidden+FIgures+West+Computers+In+Office.jpg?format=1500w
 ---
 
 # Figuras Ocultas, una película de lucha
