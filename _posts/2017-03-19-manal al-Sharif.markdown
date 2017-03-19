@@ -15,7 +15,7 @@ Finalmente fue arrestada unos días. Tras esto, al-Sharif explica como gente que
 Manal al-Sharif cuenta que quiere contar la **realidad de las mujeres que no son escuchadas**, las que no salen en las noticias o no tienen posibilidad ni medios de expresar su situación. _"Si ves algo que está mal, tienes que hablar"_ dice en respuesta a ser calificada como activista.
 
 
->> "_etiquetar a la gente por oponerse a cosas horribles, hace que haya gente que no quiera ser etiquetada" explica ella "estoy en contra de esa palabra, sólo soy un ser humano que no acepta ese maltrato_". 
+> "_etiquetar a la gente por oponerse a cosas horribles, hace que haya gente que no quiera ser etiquetada" explica ella "estoy en contra de esa palabra, sólo soy un ser humano que no acepta ese maltrato_". 
 
 El problema, según cuenta ella, va mucho más allá de la prohibición de conducir. Explica que eso sólo es una pequeña muestra de la cultura que la rodea, en donde las mujeres son tratadas como algo que hay que proteger, que tienen piernas y brazos pero no deben usarlos, si no que dejar que otros las lleven. Y no sólo en su país, Al-Sharif cuenta como en una conferencia en Alemania sobre tecnología, había chicas, modelos, delante de los productos, pero cuando fue a preguntar, no sabían responderle y tuvieron que llamar a alguien para aclararle sus dudas. _"Estaban usando a las mujeres como un objeto, y eso está mal"_. 
 
