@@ -8,7 +8,7 @@ avatar: img/authors/paula.jpe
 image: assets/foto_manal.jpg
 ---
 
-**Manal al-Sharif**  (en árabe, منال الشريف‎‎) es una **informática y activista por los derechos de las mujeres** que reside en Arabia Saudí. Su campaña contra la prohibición de conducir a las mujeres (grabándose ella misma conduciendo) dió la vuelta al mundo. Era parte de un movimiento mayor llamado _Women2Drive_, "no tenía ni idea de que pasaría lo que pasó" y explica como el país entero se alteró por el video mientras que el gobierno no hacía nada, y estaba muy asustada por pensar en cómo reaccionarían. 
+**Manal al-Sharif**  (en árabe, منال الشريف‎‎) es una **informática y activista por los derechos de las mujeres** que reside en Arabia Saudí. Su campaña contra la prohibición de conducir a las mujeres (grabándose ella misma conduciendo) dió la vuelta al mundo. Era parte de un movimiento mayor llamado _Women2Drive_, "_no tenía ni idea de que pasaría lo que pasó_" y explica como el país entero se alteró por el video mientras que el gobierno no hacía nada, y estaba muy asustada por pensar en cómo reaccionarían. 
 
 Finalmente fue arrestada unos días. Tras esto, al-Sharif explica como gente que incluso le parecía mal lo que había hecho (porque estaban de acuerdo con seguir la ley de que las mujeres no pueden conducir) estaban en contra de su detención, pues era una medida exagerada a su parecer, y firmaron peticiones para sacarla de la cárcel. Al-Sharif explica que se cree que permitir a las mujeres conducir puede desembocar en matrimonios rotos, adulterio y natalidad baja.  
 
