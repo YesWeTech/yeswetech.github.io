@@ -4,7 +4,7 @@ title: "Feminismo 101"
 subtitle: "Evento"
 date: 2017-03-18 09:26:49::00 +0530
 categories: ["eventos"]
-author: "Geek & Tech Girls"
+author: "Paloma de las Cuevas"
 avatar: img/authors/paloma.jpe
 image: assets/cartel_f101.jpeg
 ---
