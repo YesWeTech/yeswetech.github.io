@@ -5,8 +5,8 @@ subtitle: "Evento"
 date: 2017-03-18 09:26:49::00 +0530
 categories: ["eventos"]
 author: "Geek & Tech Girls"
-avatar: img/authors/geekandtechgirls.png
-image: img/eventos.jpg
+avatar: img/authors/paloma.jpe
+image: assets/cartel_f101.jpeg
 ---
 
 ## Evento: Feminismo 101
