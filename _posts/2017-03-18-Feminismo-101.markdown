@@ -32,4 +32,4 @@ El programa que hemos preparado es el siguiente:
 
 Os invitamos a que vengáis, creemos realmente que a través de la información y el conocer las experiencias que se van a contar es como podemos ayudar a que la situación cambie. Tanto si tienes una visión contraria a lo que hemos expuesto como si la apoyas, y quieres participar en un debate sano y enriquecedor, ¡te esperamos!
 
-![Cartel]({{ site.url }}/img/poster1w.jpg)
+![Cartel]({{ site.url }}/assets/cartel_f101.jpeg)
