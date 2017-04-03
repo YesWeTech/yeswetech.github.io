@@ -5,10 +5,10 @@ date: 2017-04-02 11:30:00::00 +0530
 categories: ["blog"]
 author: "Paloma de las Cuevas"
 avatar: img/authors/paloma.jpe
-image: assets/cartel_f101.jpeg
+image: assets/feminismo101/1.jpg
 ---
 
-Ayer celebramos el evento que anunciamos hace unas semanas, ![Feminismo 101]({{ site.url }}/_posts/2017-03-18-Feminismo-101.markdown) en __La Qarmita, libros y café__, el cual podemos decir que fue un éxito tanto por asistencia como por el ambiente que se consiguió y la cantidad de cosas interesantes que aprendimos. Así pues, el resumen completo de la tarde derivará en una serie de 3 posts con cada una de las partes en las que se dividió el evento: la mesa redonda, la charla sobre historia del feminismo, y aliados feministas.
+Ayer celebramos el evento que anunciamos hace unas semanas, Feminismo 101 en [__La Qarmita, libros y café__](https://twitter.com/LAQARMITA), el cual podemos decir que fue un éxito tanto por asistencia como por el ambiente que se consiguió y la cantidad de cosas interesantes que aprendimos. Así pues, el resumen completo de la tarde derivará en una serie de 3 posts con cada una de las partes en las que se dividió el evento: la mesa redonda, la charla sobre historia del feminismo, y aliados feministas.
 
 Hoy comenzamos hablando de la mesa redonda, que se celebró al principio de la tarde, y que era un espacio no mixto y libre de transfobia.
 
@@ -40,6 +40,8 @@ Parándonos más en el tema del machismo en las carreras, se comenta que no porq
 
 A continuación se comentan varias experiencias personales que no se detallarán por respeto a les asistentes. Sin embargo, se repiten las ya conocidas vejaciones por parte de hombres y la consiguiente humillación tras denunciarlo, el dolor del poco apoyo o del no reconocimiento de agresiones por parte de otras compañeras, el constante derecho a opinar sobre nuestro físico, la culpabilización de la víctima cuando ésta es una mujer y la banalización de nuestros problemas.
 
-Y ante situaciones de agresión verbal por parte de nuestro entorno cercano nos preguntamos, ¿en qué momento nos empezamos a sentir ofendidas? ¿Cómo lo decimos? ¿Perdderemos amigos al decirlo? Muchas coincidimos en sentir o haber sentido miedo a quedarnos solas y sin apoyo tras denunciar comportamientos machistas. Además, les asistentes reconocen la importancia de realizar jornadas de este estilo para informar a la gente, ya que tanto madres como padres ayudan a perpetuar esos comportamientos machistas en sus hijes. Aunque no siempre, y también se reconoce la labor de madres que tuvieron que abandonar sus vidas por lo que se esperaba de ellas como mujeres, pero han inculcado a sus hijas el pensamiento de ser ellas mismas y no abandonar sus sueños por nadie.
+Y ante situaciones de agresión verbal por parte de nuestro entorno cercano nos preguntamos, ¿en qué momento nos empezamos a sentir ofendidas? ¿Cómo lo decimos? ¿Perderemos amigos al decirlo? Muchas coincidimos en sentir o haber sentido miedo a quedarnos solas y sin apoyo tras denunciar comportamientos machistas. Además, les asistentes reconocen la importancia de realizar jornadas de este estilo para informar a la gente, ya que tanto madres como padres ayudan a perpetuar esos comportamientos machistas en sus hijes. Aunque no siempre, y también se reconoce la labor de madres que tuvieron que abandonar sus vidas por lo que se esperaba de ellas como mujeres, pero han inculcado a sus hijas el pensamiento de ser ellas mismas y no abandonar sus sueños por nadie.
 
 Por último, las organizadoras agradecen la asistencia a todes y se da paso a las charlas en ambiente mixto.
+
+![asistentes](assets/feminismo101/1.jpg)
