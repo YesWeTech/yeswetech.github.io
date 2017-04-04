@@ -22,7 +22,7 @@ Comenzamos la mesa redonda con presentaciones de cada una de las asistentes, que
 * Pilar - Estudiante del doble grado de Informática y Matemáticas.
 * Marta - Estudiante del doble grado de Informática y Matemáticas.
 * Eva - Licenciada en Traducción y profesora de inglés.
-* Somaya - Futura estudiante del grado de Psicología y de origen marroquí.
+* Somaya - Futura estudiante del grado de Psicología.
 * Nieves - Estudiante del grado de Farmacia.
 * Paloma - Ingeniera de Telecomunicaciones, estudiante de doctorado y organizadora de _Geek & Tech Girls_.
 
