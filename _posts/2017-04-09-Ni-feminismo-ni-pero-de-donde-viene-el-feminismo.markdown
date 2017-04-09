@@ -4,6 +4,8 @@ title: "Ni feminismo ni... pero, ¿de dónde viene el feminismo?"
 date: 2017-04-02
 categories: ["blog"]
 author: "Teresa Algarra"
+avatar: img/authors/teresa.jpe
+image: assets/Hildegard-of-Bingen.jpg
 ---
 
 # Ni feminismo ni... pero, ¿de dónde viene el feminismo?
