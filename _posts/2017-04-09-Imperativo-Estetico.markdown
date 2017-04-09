@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "El Imperativo Estético en las Mujeres"
-date: 2017-03-09
+date: 2017-04-09
 categories: ["blog"]
 author: "Teresa Algarra"
+avatar: img/authors/teresa.jpe
+image: assets/Feminist_Superhero.JPG
 ---
 
 # El Imperativo Estético en las Ingenieras
@@ -12,7 +14,7 @@ Tengo que decirlo: he apuntado alto con el título. Muchos conceptos juntos. Qui
 
 ### Hay un problema, chicas.
 
-!(https://3.bp.blogspot.com/-F4ht1aVPbgk/U1cbpVZTJ6I/AAAAAAAASGU/y-9bjMZaetw/s1600/Feminist_Superhero.JPG)
+![Superheroina](https://3.bp.blogspot.com/-F4ht1aVPbgk/U1cbpVZTJ6I/AAAAAAAASGU/y-9bjMZaetw/s1600/Feminist_Superhero.JPG)
 
 Me atreví a escribir este post tras leer  a una escritora que, personalmente, me encanta: [Herminia Luque](https://es.wikipedia.org/wiki/Herminia_Luque). La granadina ha recibido el premio Málaga de Novela en su IX edición por su novela [_Amar tanta Belleza_](https://www.amazon.com/tanta-belleza-Herminia-Luque-Ort%C3%ADz/dp/8415673132/ref=sr_1_1?s=books&ie=UTF8&qid=1489393503&sr=1-1&refinements=p_27%3AHerminia+Luque+Ortiz). También me gustaría destacar [_Al Sur de la Nada_](https://www.amazon.com/sur-nada-Herminia-Luque-Ortiz/dp/849282154X/ref=sr_1_2?s=books&ie=UTF8&qid=1489393503&sr=1-2&refinements=p_27%3AHerminia+Luque+Ortiz), ya que ambos libros van sobre las vidas de mujeres que, sin saber muy bien por qué, han sido víctimas de una sociedad machista que nos les ha permitido desarrollarse plenamente o que, incluso habiéndolo hecho, les ha cortado las alas y las ha invisibilizado. Sin embargo, esos libros os los dejo a vosotras para vuestra lectura personal.
 
@@ -42,4 +44,4 @@ Estas son sólo algunas de las experiencias por las que no sólo Isis, sino much
 Además, el hashtag en Twitter se hizo famoso a nivel mundial, con más de 250,000 menciones tan solo un año después de su creación. Si queréis leer más sobre el hashtag, os dejamos una [recopilación de los mejores tweets](http://www.sciencealert.com/the-best-tweets-from-the-ilooklikeanengineer-hashtag) y otra de [los más emotivos](http://www.vox.com/2015/8/5/9099719/does-an-engineer-look-like-this-yes).
 Además, también os dejamos un artículo escrito por Isis sobre [cómo se siente un año después](https://medium.com/startup-grind/ilooklikeanengineer-one-year-later-b599e0cae817) y un breve artículo explicativo de [Los Angeles Times](http://www.latimes.com/business/technology/la-fi-tn-i-look-like-an-engineer-20150804-story.html). ¡Que el ruido no pare!
 
-!(https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fhavokjournal.com%2Fwp-content%2Fuploads%2F2015%2F05%2Fwoman-with-megaphone-dpc.jpg&f=1)
+![Megafono](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fhavokjournal.com%2Fwp-content%2Fuploads%2F2015%2F05%2Fwoman-with-megaphone-dpc.jpg&f=1)

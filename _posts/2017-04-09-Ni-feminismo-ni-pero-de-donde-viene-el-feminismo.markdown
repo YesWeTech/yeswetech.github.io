@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ni feminismo ni... pero, ¿de dónde viene el feminismo?"
-date: 2017-04-02
+date: 2017-04-09
 categories: ["blog"]
 author: "Teresa Algarra"
 avatar: img/authors/teresa.jpe
