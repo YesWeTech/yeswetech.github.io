@@ -5,7 +5,7 @@ date: 2017-04-09
 categories: ["blog"]
 author: "Teresa Algarra"
 avatar: img/authors/teresa.jpe
-image: assets/Feminist_Superhero.JPG
+image: https://3.bp.blogspot.com/-F4ht1aVPbgk/U1cbpVZTJ6I/AAAAAAAASGU/y-9bjMZaetw/s1600/Feminist_Superhero.JPG
 ---
 
 # El Imperativo Estético en las Ingenieras
