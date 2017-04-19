@@ -1,5 +1,6 @@
 ---
 title: "Ni feminismo ni... pero, ¿de dónde viene el feminismo?"
+subtitle: "Resumen de la segunda parte de Feminismo 101"
 date: 2017-04-09
 categories: ["blog"]
 author: "Teresa Algarra"

@@ -1,5 +1,6 @@
 ---
 title: "El Imperativo Estético en las Mujeres"
+subtitle: " "
 date: 2017-04-09
 categories: ["blog"]
 author: "Teresa Algarra"
@@ -34,7 +35,7 @@ Por suerte, como suele ocurrir, tenemos referentes de valientes mujeres que se h
 
 Esta ingeniera informática canadiense fue promocionada por su empresa OneLogin en un anuncio, lo que le hizo recibir comentarios sobre su aspecto físico en relación a su profesión, e incluso dudas de que ella fuese realmente ingeniera o sólo un paripé para aparentar diversidad. Esto la llevó a crear el hashtag **#ILookLikeAnEngineer** (#MeVeoComoUnaIngeniera) reclamando un trato igual independientemente del género y del aspecto físico de cada persona, en especial en el sector STEM, tan masculinizado y sexualizado.
 
-![image](assets/team_girls.jpg)
+![image](assets/team_girls.jpe)
 
 Como ella misma dijo en [un ensayo que escribió](https://thecoffeelicious.com/you-may-have-seen-my-face-on-bart-8b9561003e0f) para la página _thecoffeelicious_ y que publicó tambíen en [Linkedin](https://www.linkedin.com/pulse/i-look-like-engineer-isis-wenger):
 
@@ -48,4 +49,4 @@ Estas son sólo algunas de las experiencias por las que no sólo Isis, sino much
 Además, el hashtag en Twitter se hizo famoso a nivel mundial, con más de 250,000 menciones tan solo un año después de su creación. Si queréis leer más sobre el hashtag, os dejamos una [recopilación de los mejores tweets](http://www.sciencealert.com/the-best-tweets-from-the-ilooklikeanengineer-hashtag) y otra de [los más emotivos](http://www.vox.com/2015/8/5/9099719/does-an-engineer-look-like-this-yes).
 Además, también os dejamos un artículo escrito por Isis sobre [cómo se siente un año después](https://medium.com/startup-grind/ilooklikeanengineer-one-year-later-b599e0cae817) y un breve artículo explicativo de [Los Angeles Times](http://www.latimes.com/business/technology/la-fi-tn-i-look-like-an-engineer-20150804-story.html). ¡Que el ruido no pare!
 
-![Megafono](assets/megafono.jpg)
+![Megafono](assets/megafono.jpe)
