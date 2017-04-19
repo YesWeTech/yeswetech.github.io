@@ -30,10 +30,15 @@ Todas sabemos de lo que hablamos: ponerse tacones para ir a trabajar, tener que 
 Las ingenieras, como cualquier otra mujer de este mundo, hemos sufrido todo este bombardeo de obligaciones con ¿la sociedad? ¿los hombres?. Nosotras, sin embargo, tenemos el hándicap de que somos pocas. Este provoca que los hombres se crean con más poder y autoridad para poder opinar sobre nuestro físico. Se ven en posición de ventaja sobre nosotras y empieza el "¿No eres demasiado guapa para ser ingeniera?" y el "Con ese cuerpo tendrías que estar posando, no programando." Pues mira, no, no quiero posar, no quiero que hombres como tú disfruten de mi dolor, de mi sumisión ante los medios de comunicación que tratan a las mujeres como materia prima que ha de ser explotada y luego retirada del mercado una vez no da para más.
 
 Por suerte, como suele ocurrir, tenemos referentes de valientes mujeres que se han rebelado contra esta situación y que nos guían el camino para poder rebelarnos. Hablamos de [**Isis Anchalee**](https://en.wikipedia.org/wiki/Isis_Anchalee).
+
 ![Isis Anchalee](https://cdn-images-1.medium.com/max/800/1*U_mjNSdCPNoTjn8ma7tmGA.jpeg)
+
 Esta ingeniera informática canadiense fue promocionada por su empresa OneLogin en un anuncio, lo que le hizo recibir comentarios sobre su aspecto físico en relación a su profesión, e incluso dudas de que ella fuese realmente ingeniera o sólo un paripé para aparentar diversidad. Esto la llevó a crear el hashtag **#ILookLikeAnEngineer** (#MeVeoComoUnaIngeniera) reclamando un trato igual independientemente del género y del aspecto físico de cada persona, en especial en el sector STEM, tan masculinizado y sexualizado.
-![image](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.breitbart.com%2Fmedia%2F2015%2F08%2Fap_isis-anchalee_ap-photo-640x491.jpg&f=1)
+
+![image](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.breitbart.com%2Fmedia%2F2015%2F08%2Fap_isis-anchalee_ap-photo-640x491.jpg)
+
 Como ella misma dijo en [un ensayo que escribió](https://thecoffeelicious.com/you-may-have-seen-my-face-on-bart-8b9561003e0f) para la página _thecoffeelicious_ y que publicó tambíen en [Linkedin](https://www.linkedin.com/pulse/i-look-like-engineer-isis-wenger):
+
  _"The reality is that most people are well intentioned but genuinely blind to a lot of the crap that those who do not identify as male have to deal with."_ (La realidad es que muchos hombres son bienintencionados, pero están ciegos a mucha de la mierda que aquellos que no nos identificamos como hombres tenemos que sufrir"). Seguidamente, cuenta un par de experiencias chocantes:
 
 * Un compañero de trabajo le lanzó billetes en su oficina durante horas laborales como si ella estuviese contratada como una stripper en lugar de como una ingeniera.
@@ -44,4 +49,4 @@ Estas son sólo algunas de las experiencias por las que no sólo Isis, sino much
 Además, el hashtag en Twitter se hizo famoso a nivel mundial, con más de 250,000 menciones tan solo un año después de su creación. Si queréis leer más sobre el hashtag, os dejamos una [recopilación de los mejores tweets](http://www.sciencealert.com/the-best-tweets-from-the-ilooklikeanengineer-hashtag) y otra de [los más emotivos](http://www.vox.com/2015/8/5/9099719/does-an-engineer-look-like-this-yes).
 Además, también os dejamos un artículo escrito por Isis sobre [cómo se siente un año después](https://medium.com/startup-grind/ilooklikeanengineer-one-year-later-b599e0cae817) y un breve artículo explicativo de [Los Angeles Times](http://www.latimes.com/business/technology/la-fi-tn-i-look-like-an-engineer-20150804-story.html). ¡Que el ruido no pare!
 
-![Megafono](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fhavokjournal.com%2Fwp-content%2Fuploads%2F2015%2F05%2Fwoman-with-megaphone-dpc.jpg&f=1)
+![Megafono](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fhavokjournal.com%2Fwp-content%2Fuploads%2F2015%2F05%2Fwoman-with-megaphone-dpc.jpg)

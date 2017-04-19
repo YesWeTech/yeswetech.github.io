@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Convocatoria para el taller de R (varios niveles)"
+subtitle: "Evento"
 date: 2017-04-19 11:00:41::00 +0530
 categories: ["eventos"]
 author: "Paloma de las Cuevas"
