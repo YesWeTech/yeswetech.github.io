@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Ni feminismo ni... pero, ¿de dónde viene el feminismo?"
 date: 2017-04-09
 categories: ["blog"]

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "El Imperativo Estético en las Mujeres"
 date: 2017-04-09
 categories: ["blog"]
