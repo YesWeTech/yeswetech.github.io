@@ -5,7 +5,7 @@ date: 2017-02-19
 categories: ["blog"]
 author: "Braulio Vargas"
 avatar: img/authors/braulio.jpe
-image: img/taller.jpe
+image: img/taller.jpg
 ---
 
 El pasado viernes 17 de febrero, celebramos el taller ___Women in Django___, donde enseñamos Python a distintos niveles, y el framework de desarrollo web __Django__, y en la última parte del taller, al final de la tarde, hicimos un pequeño debate muy interesante.
