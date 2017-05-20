@@ -3,8 +3,8 @@ title: "Alternativas económicas para la justicia global"
 subtitle: "Mesa redonda organizada por el Cicode"
 date: 2017-05-19
 categories: ["blog"]
-author: "Marta Gómez"
-avatar: img/authors/marta.jpe
+author: "Marta Gómez y Braulio Vargas"
+avatar: img/authors/geekandtechgirls.jpe
 image: assets/Cicode/9.jpg
 ---
 
