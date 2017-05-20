@@ -47,3 +47,7 @@ Además, también hablamos sobre [__Women in Data Science__](http://www.widsconf
 A partir de ahí, se empezó a hablar sobre lo necesario que son este tipo de iniciativas para animar a las mujeres a participar en la comunidad. 
 
 Destacamos la labor que realizan los organizadores de [__DataBeersGRX__](https://twitter.com/DataBeersGRX), que procuran que haya siempre paridad en los ponentes. [_Ana Valdivia_](https://twitter.com/ana_valdi), una de las organizadoras de este evento, nos contó que no es tan difícil como parece tener paridad en los ponentes. [_Cristina Heredia_](https://twitter.com/_musicalnote) contó como ella había notado, en un evento al que acudió recientemente, que había menos público en las charlas que eran impartidas por mujeres.
+
+Una de las asistentes resaltó lo importante que es frenar actitudes y comentarios machistas en conferencias y eventos de este tipo, porque la mayoría de las mujeres nos callamos y le reímos la gracia (a veces sin ser conscientes de lo que ello significa). 
+
+Por último, hablamos del [__síndrome del impostor__](https://es.wikipedia.org/wiki/S%C3%ADndrome_del_impostor): un trastorno psicológico que nos hace creer que lo que hacemos no es importante o no merece la pena. Muchas mujeres no se "venden" igual de bien que un hombre, porque creen que su trabajo no tiene tanto mérito.
