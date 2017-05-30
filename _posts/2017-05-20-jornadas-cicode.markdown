@@ -4,7 +4,7 @@ subtitle: "Mesa redonda organizada por el Cicode"
 date: 2017-05-19
 categories: ["blog"]
 author: "Marta Gómez y Braulio Vargas"
-avatar: img/authors/geekandtechgirls.jpe
+avatar: img/authors/geekandtechgirls.png
 image: assets/Cicode/9.jpg
 ---
 
