@@ -14,7 +14,7 @@ El pasado martes 30 de Mayo se celebró el desayuno-debate __"El papel de la muj
 
 ![](assets/gtmujerestic/1.jpg)
 
-El desayuno-debate ha estado dividido en tres partes: en primer lugar, [__Nuria Rico__](https://twitter.com/NuriaStatgirl) ha dado una charla presentando datos sobre la presencia femenina en el mundo TIC, después, las invitadas han hecho u n comentario breve sobre su experiencia personal en las TIC y, por último, ha habido un debate con el público.
+El desayuno-debate ha estado dividido en tres partes: en primer lugar, [__Nuria Rico__](https://twitter.com/NuriaStatgirl) ha dado una charla presentando datos sobre la presencia femenina en el mundo TIC, después, las invitadas han hecho un comentario breve sobre su experiencia personal en las TIC y, por último, ha habido un debate con el público.
 
 ## Charla de Nuria Rico
 
@@ -29,7 +29,7 @@ El desayuno-debate ha estado dividido en tres partes: en primer lugar, [__Nuria 
 
 En su presentación, _Nuria_ nos ha mostrado datos del [__INE__](http://www.ine.es/) sobre el personal de investigación e I+D en diferentes áreas. En ámbitos como la administración pública o fundaciones sin ánimo de lucro, el porcentaje entre hombres y mujeres está bastante igualado. Sin embargo, en el ámbito de las TIC este porcentaje se __reduce a menos del 30%__.
 
-También nos ha enseñado lo que se denomina la __gráfica tijera__, referida al número de hombres y mujeres en diferentes cargos de investigación. Cuanto más alto es el cargo, menos mujeres hay. En el cargo más importante (investigador principal) sólo hay un 24.86% de mujeres.
+También nos ha enseñado lo que el [__CSIC__](http://www.csic.es/mujeres-y-ciencia) denomina la __gráfica tijera__, referida al número de hombres y mujeres en diferentes cargos de investigación. Cuanto más alto es el cargo, menos mujeres hay. En el cargo más importante (investigador principal) sólo hay un 24.86% de mujeres.
 
 ![](assets/gtmujerestic/3.jpg)
 
