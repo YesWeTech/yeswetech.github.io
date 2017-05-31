@@ -14,11 +14,20 @@ El pasado martes 30 de Mayo se celebró el desayuno-debate __"El papel de la muj
 
 ![](assets/gtmujerestic/1.jpg)
 
-El desayuno-debate ha estado dividido en tres partes: en primer lugar, [__Nuria Rico__](https://twitter.com/NuriaStatgirl) ha dado una charla presentando datos sobre la presencia femenina en el mundo TIC, después, las invitadas han dado una pequeña charla sobre su experiencia personal y, por último, ha habido un debate con el público.
+El desayuno-debate ha estado dividido en tres partes: en primer lugar, [__Nuria Rico__](https://twitter.com/NuriaStatgirl) ha dado una charla presentando datos sobre la presencia femenina en el mundo TIC, después, las invitadas han hecho u n comentario breve sobre su experiencia personal en las TIC y, por último, ha habido un debate con el público.
 
 ## Charla de Nuria Rico
 
-En primer lugar, _Nuria_ nos ha presentado datos sobre el personal de investigación e I+D en diferentes áreas. En ámbitos como la administración pública o fundaciones sin ánimo de lucro, el porcentaje entre hombres y mujeres está bastante igualado. Sin embargo, en el ámbito de las TIC este porcentaje se __reduce a menos del 30%__.
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<!-- this is the embed code provided by Google -->
+  <iframe src="https://docs.google.com/presentation/d/1hZaL1eONhhjHJqUXeq0RCRcAorv0yoAf66VyYdKhVrg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<!-- Google embed ends -->
+</div>
+
+En su presentación, _Nuria_ nos ha mostrado datos del [__INE__](http://www.ine.es/) sobre el personal de investigación e I+D en diferentes áreas. En ámbitos como la administración pública o fundaciones sin ánimo de lucro, el porcentaje entre hombres y mujeres está bastante igualado. Sin embargo, en el ámbito de las TIC este porcentaje se __reduce a menos del 30%__.
 
 También nos ha enseñado lo que se denomina la __gráfica tijera__, referida al número de hombres y mujeres en diferentes cargos de investigación. Cuanto más alto es el cargo, menos mujeres hay. En el cargo más importante (investigador principal) sólo hay un 24.86% de mujeres.
 
@@ -48,18 +57,18 @@ En primer lugar, ha hablado [__Maribel García Arenas__](https://twitter.com/MIs
 
 ![](assets/gtmujerestic/7.jpg)
 
-A continuación, ha sido el turno de [__Paloma de las Cuevas__](https://twitter.com/unintendedbear). Paloma nos ha hablado de la asociación que hemos fundado, __Geek & Tech Girls__, y de la cantidad de actividades que hemos organizado. También ha comentado algo que hemos reivindicado mucho desde _Geek & Tech Girls_: la falta de ponentes femeninas en muchos eventos. Si se pone empeño en buscar a mujeres, al final se encuentran. De hecho, en _Geek & Tech Girls_ nos ha faltado tiempo para poder hacer todas las actividades que teníamos en mente.
+A continuación, ha sido el turno de [__Paloma de las Cuevas__](https://twitter.com/unintendedbear). Paloma nos ha hablado de la asociación que hemos fundado, __Geek & Tech Girls__, y de la cantidad de actividades que hemos organizado. También ha comentado algo que hemos reivindicado mucho desde _Geek & Tech Girls_ : la falta de ponentes femeninas en muchos eventos. Si se pone empeño en buscar a mujeres, al final se encuentran. De hecho, en _Geek & Tech Girls_ nos ha faltado tiempo para poder hacer todas las actividades que teníamos en mente.
 
 ![](assets/gtmujerestic/8.jpg)
 
-Seguidamente, ha intervenido [__María Martín__](https://twitter.com/generoenaccion), quien ha destacado la importancia de la charla de _Nuria_ y ha añadido que esto no es sólo un problema en las TIC sino en toda la sociedad. Tras esto, en referencia al efecto _John-Jennifer_, nos ha comentado un experimento que llevó a cabo en México, en el que consiguió que la empresa en la que trabajaba, donde los porcentajes de preselección de mujeres rondaban el 28%, aceptara currículums completamente anónimos, y en los que no se pudiera identificar el sexo de la persona. 
+Seguidamente, ha intervenido [__María Martín__](https://twitter.com/generoenaccion), quien ha destacado la importancia de la charla de _Nuria_ y ha añadido que esto no es sólo un problema en las TIC sino en toda la sociedad. Tras esto, en referencia al efecto _John-Jennifer_, nos ha comentado un experimento que llevó a cabo en México, en el que consiguió que la empresa en la que trabajaba, donde los porcentajes de preselección de mujeres rondaban el 28%, aceptara currículums completamente anónimos, y en los que no se pudiera identificar el sexo de la persona.
 
 Con esto, se llevó a cabo un proceso de preselección de candidatos, que tuvo como resultado el haber prácticamente un de 50% hombres y un de 50% mujeres. En cambio, cuando ya se supo el género de cada candidato, sólo una minoría de mujeres pasó la selección final, volviendo los porcentajes a los que había antes de comenzar el estudio. Finalmente, ha añadido que las empresas que añaden mujeres a su plantilla son más productivas.
 
 ![](assets/gtmujerestic/9.jpg)
 ![](assets/gtmujerestic/10.jpg)
 
-Por último, las hermanas [__Laura y Eugenia Huertas Cabello__](https://twitter.com/galdonsoftware) nos han contado su experiencia profesional. Su familia las apoyó desde pequeñas a estudiar ingeniería informática y, como durante la carrera, ellas hicieron piña con sus compañeras para apoyarse las unas a las otras, ayudarse y sacar adelante la carrera. 
+Por último, las hermanas [__Laura y Eugenia Huertas Cabello__](https://twitter.com/galdonsoftware) nos han contado su experiencia profesional. Su familia las apoyó desde pequeñas a estudiar ingeniería informática y, como durante la carrera, ellas hicieron piña con sus compañeras para apoyarse las unas a las otras, ayudarse y sacar adelante la carrera.
 
 Además de esto, nos han contado que en su empresa, ___Galdon Software___, están prácticamente un 50% de mujeres y que el ambiente de trabajo es muy bueno. Sin embargo, cuando se relacionan con otras empresas para vender sus productos, no son tenidas en cuenta hasta que demuestran que saben y que merecen estar ahí. Por último, nos han comentado el hecho de ir acompañada de un hombre ayuda a que se las tenga en cuenta mucho antes que si van sólo mujeres.
 
