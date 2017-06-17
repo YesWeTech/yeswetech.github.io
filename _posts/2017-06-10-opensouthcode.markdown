@@ -31,7 +31,7 @@ En ella hacemos una comparación entre el uso de Python, R, y Java mediante Weka
 También tuvimos la oportunidad de asistir a otras charlas, todas muy interesantes, y tuvimos la oportunidad de conocer a grandes profesionales. Lo tenéis todo en este hilo de Twitter:
 
 <center><blockquote class="twitter-tweet" data-lang="en"><p lang="es" dir="ltr">¡Ya estamos aquí! <a href="https://twitter.com/Opensouthcode">@Opensouthcode</a> <a href="https://t.co/lxUrU47ESf">pic.twitter.com/lxUrU47ESf</a></p>&mdash; Geek &amp; Tech Girls (@geekandtechgirl) <a href="https://twitter.com/geekandtechgirl/status/860763171744878592">May 6, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></centerZ
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
 Si queréis consultar el resto de presentaciones, están liberadas en el [__repositorio de Github de la organización__](https://github.com/opensouthcode/2017).
 
