@@ -4,7 +4,7 @@ subtitle:  "Resumen de la segunda reunión de Geek & Tech Girls"
 date:   2016-11-15 10:00::00 +0530
 categories: ["blog"]
 author: "Marta Gómez Macías"
-avatar: img/authors/marta.jpe
+layout: post
 image: assets/presentacion2.jpg
 ---
 
@@ -24,17 +24,17 @@ En su charla, _Laura_ explicó los siguientes temas:
 
 Además, _Laura_ inició un debate sobre las mujeres en el mundo del videojuego a nivel profesional. Debido a las pocas mujeres que se dedican a la informática, no hay muchas programadoras y la gran mayoría se dedican a la parte artística.
 
-![Presentacion]({{ site.url }}/assets/presentacion2.jpg)
+![Presentacion]({{ site.baseurl }}/assets/presentacion2.jpg)
 
 # Debate
 
 Tras la charla, se inició un debate sobre la situación de la mujer en los videojuegos. Las asistentes contaron sus malas experiencias en juegos online y la discriminación que sufrían por parte de los jugadores masculinos. _Blizzard_ trata de evitar haciendo que los jugadores problemáticos sólo pudieran comunicarse con otros jugadores problemáticos. También debatimos sobre casos concretos de mujeres que habían sufrido acoso por hacer streaming de sus partidas a videojuegos y sobre cómo algunos _youtubers_ usan imágenes de mujeres en las miniaturas de sus vídeos para conseguir más visitas.
 
-![Debate]({{ site.url }}/assets/debate2_1.jpg)
+![Debate]({{ site.baseurl }}/assets/debate2_1.jpg)
 
-![Debate]({{ site.url }}/assets/debate2_2.jpg)
+![Debate]({{ site.baseurl }}/assets/debate2_2.jpg)
 
-![Debate]({{ site.url }}/assets/debate2_3.jpg)
+![Debate]({{ site.baseurl }}/assets/debate2_3.jpg)
 
 # Enlaces
 

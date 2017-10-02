@@ -4,8 +4,8 @@ subtitle: "Evento"
 date: 2017-03-18 09:26:49::00 +0530
 categories: ["eventos"]
 author: "Paloma de las Cuevas"
-avatar: img/authors/paloma.jpe
 image: assets/cartel_f101.jpeg
+layout: post
 ---
 
 ## Evento: Feminismo 101
@@ -30,4 +30,4 @@ El programa que hemos preparado es el siguiente:
 
 Os invitamos a que vengáis, creemos realmente que a través de la información y el conocer las experiencias que se van a contar es como podemos ayudar a que la situación cambie. Tanto si tienes una visión contraria a lo que hemos expuesto como si la apoyas, y quieres participar en un debate sano y enriquecedor, ¡te esperamos!
 
-![Cartel]({{ site.url }}/assets/cartel_f101.jpeg)
+![Cartel]({{ site.baseurl }}/assets/cartel_f101.jpeg)

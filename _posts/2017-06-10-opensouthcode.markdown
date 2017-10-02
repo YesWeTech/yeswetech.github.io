@@ -4,8 +4,8 @@ subtitle: ""
 date: 2017-06-10 09:00:00::00 +0530
 categories: ["blog"]
 author: "Paloma de las Cuevas"
-avatar: img/authors/paloma.jpe
 image: assets/OpenSouthCode/bienvenida.jpg
+layout: post
 ---
 
 Como sabéis, estuvimos el pasado mayo en el congreso libre [__Open South Code__](https://www.opensouthcode.org/conferences/opensouthcode2017) en su segunda edición, que se realizó en [__La Térmica__](http://www.latermicamalaga.com/), Málaga. En este congreso la asistencia es libre y gratuita y la temática es muy diversa, siempre que se hable de herramientas de _software libre_.

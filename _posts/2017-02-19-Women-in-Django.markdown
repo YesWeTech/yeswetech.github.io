@@ -1,10 +1,10 @@
 ---
 title: "Women in Django"
 subtitle: "Resumen de la quinta reunión de Geek & Tech Girls"
-date: 2017-02-19
+date: 2017-02-19 21:00::00 +0530
 categories: ["blog"]
 author: "Braulio Vargas"
-avatar: img/authors/braulio.jpe
+layout: post
 image: img/taller.jpg
 ---
 

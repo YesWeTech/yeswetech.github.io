@@ -4,8 +4,8 @@ subtitle: "Resumen de la segunda parte de Feminismo 101"
 date: 2017-04-09
 categories: ["blog"]
 author: "Teresa Algarra"
-avatar: img/authors/teresa.jpe
 image: assets/Hildegard-of-Bingen.jpg
+layout: post
 ---
 
 # Ni feminismo ni... pero, ¿de dónde viene el feminismo?

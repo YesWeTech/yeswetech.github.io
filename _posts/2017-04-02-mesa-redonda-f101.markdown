@@ -4,8 +4,8 @@ subtitle: "Experiencias y opiniones sobre la lucha feminista"
 date: 2017-04-02 11:30:00::00 +0530
 categories: ["blog"]
 author: "Paloma de las Cuevas"
-avatar: img/authors/paloma.jpe
 image: assets/feminismo101/1.jpg
+layout: post
 ---
 
 Ayer celebramos el evento que anunciamos hace unas semanas, Feminismo 101 en [__La Qarmita, libros y café__](https://twitter.com/LAQARMITA), el cual podemos decir que fue un éxito tanto por asistencia como por el ambiente que se consiguió y la cantidad de cosas interesantes que aprendimos. Así pues, el resumen completo de la tarde derivará en una serie de 3 posts con cada una de las partes en las que se dividió el evento: la mesa redonda, la charla sobre historia del feminismo, y aliados feministas.
@@ -44,4 +44,4 @@ Y ante situaciones de agresión verbal por parte de nuestro entorno cercano nos 
 
 Por último, las organizadoras agradecen la asistencia a todes y se da paso a las charlas en ambiente mixto.
 
-![asistentes](assets/feminismo101/1.jpg)
+![asistentes]({{ site.baseurl }}/assets/feminismo101/1.jpg)

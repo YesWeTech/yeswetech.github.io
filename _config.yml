@@ -1,23 +1,15 @@
-title: Hello, world! I'm David Freeman
+title: Geek & Tech Girls
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Comunidad que a través del Software Libre acerca la tecnología a mujeres de todas las edades, a la vez que lucha por una sociedad igualitaria e inclusiva.
 permalink: ':title/'
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-twitter: # add your Twitter handle
-facebook: # add your Facebook handle
-github: artemsheludko # add your Github handle
-linkedin: # add your Linkedin handle
-email: # add your Email address
-
-# Disqus
-discus-identifier: mr-brown # add your discus identifier
+author: Geek & Tech Girls # add your name
+author-img: 1w.jpg # add your photo
+twitter: geekandtechgirl # add your Twitter handle
+github: geekandtechgirls # add your Github handle
+email: geek.and.tech.girls@gmail.com # add your Email address
 
 # Tracker
 analytics: # Google Analytics

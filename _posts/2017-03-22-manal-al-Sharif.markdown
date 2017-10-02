@@ -4,8 +4,8 @@ subtitle: "La lluvia comienza con una sola gota"
 date:   2017-03-19 19:25::00 +0530
 categories: ["blog"]
 author: "Paula de la Hoz"
-avatar: img/authors/paula.jpe
 image: assets/Manal-Al-Sharif.jpg
+layout: post
 ---
 
 **Manal al-Sharif**  (en árabe, منال الشريف‎‎) es una **informática y activista por los derechos de las mujeres** que reside en Arabia Saudí. Su campaña contra la prohibición de conducir a las mujeres ([grabándose](https://www.youtube.com/watch?v=sowNSH_W2r0) ella misma conduciendo) dio la vuelta al mundo. Era parte de un movimiento mayor llamado _Women2Drive_, "_no tenía ni idea de que pasaría lo que pasó_" y explica como el país entero se alteró por el video mientras que el gobierno no hacía nada, y estaba muy asustada por pensar en cómo reaccionarían.

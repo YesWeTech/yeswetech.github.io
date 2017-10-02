@@ -4,12 +4,13 @@ layout: main
 <article class="article-page">
   <div class="page-content">
     <div class="page-cover-image">
-      <img class="page-image" src={{ page.imgage }} alt="{{page.title}}">
+      <img class="page-image" src="{{ site.baseurl }}/{{ page.image }}" alt="{{page.title}}">
     </div> <!-- End Page Cover Image -->
     <div class="wrap-content">
       <header class="header-page">
         <h1 class="page-title">{{page.title}}</h1>
         <div class="page-date"><span>{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+        <div class="page-date"><span>{{ page.author }}</span></div>
       </header>
       {{page.content | markdownify}}
       <div class="page-footer">
@@ -24,7 +25,6 @@ layout: main
           {% endfor %}
         </div>
       </div>
-      {% include disqus.html %}
     </div> <!-- End Wrap Content -->
   </div> <!-- End Page Content -->
 </article> <!-- End Article Page -->

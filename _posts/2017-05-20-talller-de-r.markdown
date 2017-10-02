@@ -4,8 +4,8 @@ subtitle: "Resumen de la séptima reunión de Geek & Tech Girls"
 date: 2017-05-20
 categories: ["blog"]
 author: "Marta Gómez"
-avatar: img/authors/marta.jpe
 image: assets/talllerR/6.jpg
+layout: post
 ---
 
 El pasado viernes 19 de mayo, celebramos nuestro _talller de R_, donde enseñamos R a distintos niveles. Por último, hicimos un debate. El hashtag que usamos en Twitter para hablar evento es __#TalllerRGeek__.
@@ -14,7 +14,7 @@ El pasado viernes 19 de mayo, celebramos nuestro _talller de R_, donde enseñamo
 
 El taller comenzó a las 16:30 en la ETSIIT. En primer lugar, se presentaron los tutores del taller para que los alumnos los conociesen. Una vez se presentaron, dio comienzo el taller. Cada persona eligió el nivel que quería hacer y se hicieron pequeños grupos de trabajo. 
 
-![3.jpg](assets/talllerR/3.jpg)
+![3.jpg]({{ site.baseurl }}/assets/talllerR/3.jpg)
 
 El taller estaba dividido en los siguientes niveles:
 
@@ -24,15 +24,15 @@ El taller estaba dividido en los siguientes niveles:
 
 El taller hubo mucha variedad de disciplinas: fueron estudiantes de ciencias de la salud, de doctorado, grado en ingeniería informática e ingeniería de telecomunicaciones. Las estudiantes de ciencias de la salud nos contaron que estaban muy interesadas en R, debido a su gran aplicación en el campo de la __bioinformática__. 
 
-![1.jpg](assets/talllerR/1.jpg)
+![1.jpg]({{ site.baseurl }}/assets/talllerR/1.jpg)
 
-![2.jpg](assets/talllerR/2.jpg)
+![2.jpg]({{ site.baseurl }}/assets/talllerR/2.jpg)
 
 Durante el taller, los alumnos realizaron los [tutoriales](https://github.com/geekandtechgirls/Taller_de_R) que los tutores preprararon previamente. Dichos tutoriales incluían algunos ejercicios que ayudaron a los alumnos a comprender mejor los conceptos que se les presentaban. Los tutores estuvieron todo el rato ayudando a los alumnos, tanto a realizar los ejercicios como a interpretar los resultados que obtenían.
 
-![5.jpg](assets/talllerR/5.jpg)
+![5.jpg]({{ site.baseurl }}/assets/talllerR/5.jpg)
 
-![4.jpg](assets/talllerR/4.jpg)
+![4.jpg]({{ site.baseurl }}/assets/talllerR/4.jpg)
 
 La ventaja de este método es que permite a los alumnos seguir el tutorial a su ritmo y aprovechar al máximo la tarde.
 

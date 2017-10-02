@@ -4,7 +4,7 @@ subtitle: "Resumen del acto de presentación de Geek & Tech Girls"
 date:   2016-10-17 23:31::00 +0530
 categories: ["blog"]
 author: "Marta Gómez Macías"
-avatar: img/authors/marta.jpe
+layout: post
 image: assets/foto_final.jpg
 ---
 
@@ -38,7 +38,7 @@ Así, el público se animó a dar su opinión respecto y a contar experiencias p
 
 Tras acabar el debate, algunos de los asistentes nos hicimos una foto y nos fuimos de cervezas. 
 
-![Foto con los asistentes]({{ site.url }}/assets/foto_final.jpg)
+![Foto con los asistentes]({{ site.baseurl }}/assets/foto_final.jpg)
 
 # Enlaces
 

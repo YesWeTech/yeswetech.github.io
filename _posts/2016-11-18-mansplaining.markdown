@@ -4,12 +4,12 @@ subtitle: " "
 date:   2016-11-18
 categories: ["blog"]
 author: "Teresa Algarra"
-avatar: img/authors/teresa.jpe
+layout: post
 image: assets/21baird-master768_2.jpg
 ---
 # Mansplaining, o como menospreciar el conocimiento de las mujeres.
 
-![](assets/21baird-master768_2.jpg)
+![]({{ site.baseurl }}/assets/21baird-master768_2.jpg)
 
 Mansplaining, definido por la Wikipedia, es _explicar algo a alguien, generalmente un varón a una mujer,
 de una manera considerada como condescendiente o paternalista._ Es cierto que siempre hay cierto tipo de personas que son

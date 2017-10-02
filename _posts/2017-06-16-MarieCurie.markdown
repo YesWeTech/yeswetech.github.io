@@ -4,15 +4,15 @@ subtitle: "Hablamos sobre la película de la directora Maria Noëlle"
 date: 2017-06-16 09:00:00::00 +0530
 categories: ["blog"]
 author: "Paloma de las Cuevas y Teresa Algarra"
-avatar: img/authors/geekandtechgirls.png
 image: assets/Marie_Curie/cartel.jpg
+layout: post
 ---
 
 Ayer quedamos con varies chicos y chicas del grupo de Telegram (os recordamos que para estar al tanto de todas las noticias tenéis también [__el canal de Telegram__](https://telegram.me/geekandtechgirls)) para ver la película de Marie Curie, que se estrenó el pasado 2 de junio y que en Granada solamente la hemos podido ver en el [__cine Madrigal__](https://www.facebook.com/pages/Cine-Madrigal/215804648477601).
 
 Ninguna de las grandes cadenas de cines en Granada se ha interesado por esta película sobre una mujer tan importante a lo largo de la historia, que además está dirigida por una mujer y el guión escrito por dos mujeres. Desde aquí os invitamos a acudir más a este cine, necesitamos cines que sigan apostando por algo más que superproducciones, y que acerquen el cine independiente a la gente.
 
-![](assets/Marie_Curie/cartelyentrada.jpg)
+![]({{site.baseurl}}/assets/Marie_Curie/cartelyentrada.jpg)
 
 En primer lugar vamos a hablar brevemente de Marie Curie, luego brevemente sobre la película y su sinopsis, y por último resumiremos las críticas de quienes asistieron a la quedada. __Ninguna parte contiene spoilers__, así que tanto si piensas ir a ver la película como si no, puedes leernos tranquilamente.  
 
@@ -46,4 +46,4 @@ Para comenzar, la película empieza cuando ya le han dado el primer premio Nobel
 
 Volviendo a Marie, no se muestra a una ganadora de dos premios Nobel y adelantada a su tiempo, se muestra a una mujer dependiente, de la época, y que, adicionalmente, ha ganado dos premios Nobel, como si fuese un asunto baladí que no tiene mayor importancia en la trama. Por último, llama la atención la manera tan "natural" de tratar actitudes machistas en la película, ya que se esperaría que las guionistas y la directora atacasen mordazmente esta actitud, pero hay numerosas escenas que se quedan colgadas sin recibir un final apropiado. Nos despedimos criticando a un jovencísimo Einstein que insta a Marie a "sonreir más, que está más guapa". Fin del comunicado.
 
-![](assets/Marie_Curie/tertulia.jpg)
+![]({{site.baseurl}}/assets/Marie_Curie/tertulia.jpg)

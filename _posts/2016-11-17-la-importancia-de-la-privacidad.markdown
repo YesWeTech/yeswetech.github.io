@@ -4,11 +4,11 @@ subtitle: " "
 date:   2016-11-17 
 categories: ["blog"]
 author: "Paula de la Hoz"
-avatar: img/authors/paula.jpe
+layout: post
 image: assets/importancia_privacidad/tiempos-modernos-1.jpg
 ---
 # Tiempos modernos
-![Image of Charles](http://www.elpelicultista.com/wp-content/uploads/2015/04/tiempos-modernos-1.jpg)
+![Image of Charles]({{ site.baseurl }}/assets/importancia_privacidad/tiempos-modernos-1.jpg)
 En la actualidad, todo el mundo utiliza la tecnología, de hecho las grandes instituciones dependen de sus sitemas informáticos. 
 Pero no hace falta irse hasta ahí, todos los días nos despertamos, miramos nuestro móvil, mensajes, notificaciones, etc. Las 
 empresas empiezan a usar las redes sociales como medio de contratación, es evidente que en los tiempos que corren, nuestra 
@@ -40,7 +40,7 @@ tratar esos datos con la importancia que se merecen, **_¡Al fin y al cabo son t
 # Inspiración femenina
 > Por último, y si te interesa la seguridad, dejamos una inspiración femenina, Parisa Tabriz.
 
-![Parisa](assets/importancia_privacidad/pt01.1800x960.jpg)
+![Parisa]({{ site.baseurl }}/assets/importancia_privacidad/pt01.1800x960.jpg)
 
 **Parisa Tabriz, o como se hace llamar, [Security Princess](https://twitter.com/laparisa?lang=es)** es una experta en seguridad que trabaja para Google, y una de las 30 personas 
 más influyentes del mundo dela tecnología según la revista Forbes. Parisa no se interesó en la informática hasta su primer año de universidad, 

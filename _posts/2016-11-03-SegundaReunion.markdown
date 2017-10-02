@@ -4,7 +4,7 @@ subtitle: "Evento"
 date: 2016-11-03 08:58:14::00 +0530
 categories: ["eventos"]
 author: "Geek & Tech Girls"
-avatar: img/authors/geekandtechgirls.png
+layout: post
 image: img/eventos.jpg
 ---
 
