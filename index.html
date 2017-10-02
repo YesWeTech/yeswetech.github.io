@@ -1,42 +1,19 @@
 ---
-layout: default
+layout: main
 ---
+{% for post in paginator.posts %}
+<article class="post">
+  {% if post.img %}
+    <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
+  {% else %}
+  {% endif %}
+  <div class="post-content">
+    <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
+    <p>{{ post.content | strip_html | truncatewords: 15 }}</p>
+    <span class="post-date">{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
+    <span class="post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span>
+  </div>
+</article>
+{% endfor %}
 
-<div class="pattern pattern--hidden"></div>
-<!-- cards -->
-<div id="cartas" class="wrapper">
-    {% for post in site.posts %}
-    <div class="card" data-id="{{ post.id }}">
-        <div class="card__container card__container--closed">
-            <svg class="card__image" xmlns="http://www.w3.org/2000/svg"
-                 xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1200"
-                 preserveAspectRatio="xMidYMid slice">
-                <defs>
-                    <clipPath id="{{ post.id }}-clip-path">
-                        <polygon class="clip" points="0,1200 0,0 1920,0 1920,1200"></polygon>
-                    </clipPath>
-                </defs>
-                <image clip-path="url(#{{ post.id }}-clip-path)" width="1920" height="1200"
-                       xlink:href="https://io.rsz.io/geekandtechgirls.github.io/{{ post.image }}?width=500"></image>
-            </svg>
-            <div class="card__content">
-                <i class="card__btn-close fa fa-times"></i>
-                <div class="card__caption">
-                    <h2 class="card__title">{{ post.title }}</h2>
-                    <p class="card__subtitle">{{ post.subtitle }}</p>
-                </div>
-                <div class="card__copy">
-                    <div class="meta">
-                        <img class="meta__avatar" src="{{ post.avatar }}"/>
-                        <span class="meta__author">{{ post.author }}</span>
-                        <span class="meta__date">{{ post.date | date: "%Y-%m-%d" }}</span>
-                    </div>
-                    {{ post.content }}
-                </div>
-            </div>
-        </div>
-    </div>
-    {% endfor %}
-    <!-- /cards -->
-</div>
-
+{% include pagination.html %}
