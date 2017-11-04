@@ -54,7 +54,7 @@ Esta charla dio bastante debate sobre cómo ganar dinero usando software libre y
 
 ## Charla de la Oficina del Software Libre de la Universidad de Granada
 
-En su charla, [__Manu Cogolludo__](https://twitter.com/Makova65) nos habló del proceso que sigue la OSL para darle una segunda vida a los ordenadores: instalan ditribuciones de Linux ligeras. Dichos ordenadores reciclados son donados a asociaciones sin ánimo de lucro y colegios. 
+En su charla, [__Manu Cogolludo__](https://twitter.com/Makova_) nos habló del proceso que sigue la OSL para darle una segunda vida a los ordenadores: instalan ditribuciones de Linux ligeras. Dichos ordenadores reciclados son donados a asociaciones sin ánimo de lucro y colegios. 
 
 ![6.jpg]({{ site.baseurl }}/assets/Cicode/6.jpg)
 

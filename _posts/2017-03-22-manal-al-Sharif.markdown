@@ -21,7 +21,7 @@ Manal al-Sharif cuenta que quiere contar la **realidad de las mujeres que no son
 
 El problema, según cuenta ella, va mucho más allá de la prohibición de conducir. Explica que eso sólo es una pequeña muestra de la cultura que la rodea, en donde las mujeres son tratadas como algo que hay que proteger, que tienen piernas y brazos pero no deben usarlos, si no que dejar que otros las lleven. Y no sólo en su país, Al-Sharif cuenta como en una conferencia en Alemania sobre tecnología, había chicas, modelos, delante de los productos, pero cuando fue a preguntar, no sabían responderle y tuvieron que llamar a alguien para aclararle sus dudas. _"Estaban usando a las mujeres como un objeto, y eso está mal"_.
 
-![](http://images.huffingtonpost.com/2016-10-26-1477446835-3086154-photo43.JPG)
+![Entrevista](http://images.huffingtonpost.com/2016-10-26-1477446835-3086154-photo43.JPG)
 
 En otra ocasión, Manal explica cómo casi la raptaron por ir sola por la calle y sin cubrir su rostro _"eran las nueve de la mañana y estaba buscando un taxi para volver a casa"_ explicaba. Asegura que también ha recibido un trato despectivo en el trabajo, y en otras situaciones cotidianas.
 

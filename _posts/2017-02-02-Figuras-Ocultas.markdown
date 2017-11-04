@@ -10,7 +10,7 @@ image: assets/figuras_ocultas/Hidden+FIgures+West+Computers+In+Office.jpg
 
 # Figuras Ocultas, una película de lucha
 
-![]({{ site.baseurl }}/assets/figuras_ocultas/363696.jpg)
+![Cartel de la película]({{ site.baseurl }}/assets/figuras_ocultas/363696.jpg)
 
 Hace poco se estrenó en el cine la película [Figuras Ocultas](https://es.wikipedia.org/wiki/Hidden_Figures), que cuenta la vida de tres mujeres afroamericanas que trabajaron para la NASA durante la carrera espacial.
 

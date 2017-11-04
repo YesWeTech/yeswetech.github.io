@@ -9,7 +9,7 @@ image: assets/21baird-master768_2.jpg
 ---
 # Mansplaining, o como menospreciar el conocimiento de las mujeres.
 
-![]({{ site.baseurl }}/assets/21baird-master768_2.jpg)
+![Mansplaning]({{ site.baseurl }}/assets/21baird-master768_2.jpg)
 
 Mansplaining, definido por la Wikipedia, es _explicar algo a alguien, generalmente un varón a una mujer,
 de una manera considerada como condescendiente o paternalista._ Es cierto que siempre hay cierto tipo de personas que son
@@ -30,7 +30,7 @@ rechazada. Porque como todo el mundo sabe, a las mujeres se nos dan mal las mate
 emocionales tan característicos hacen de nuestros códigos y programas algo poco válido y que no merece ni siquiera un vistazo,
 ¿verdad?
 
-![](http://static.fjcdn.com/pictures/The_89a78d_1571975.gif)
+![Computers of the future might be very complicated for women]({{ site.baseurl }}/img/The_89a78d_1571975.gif)
 
 Según un estudio realizado por _IT Manager Daily_ y por _Girls Scouts of America_, en la infancia, tan solo el 35% de las chicas
 muestra interés en el sector, frente al 65% de los hombres. Durante el periodo escolar básico, es decir, primaria y secundaria,
@@ -68,4 +68,4 @@ Y por último, el libro de Solnit que comenzó todo el movimiento: [**Men Explai
 
 Así que ya sabéis, ¡valor y al toro!
 
-![](http://arnoldzwicky.s3.amazonaws.com/DilbertExplain.jpg)
+![Mansplaining joke](http://arnoldzwicky.s3.amazonaws.com/DilbertExplain.jpg)

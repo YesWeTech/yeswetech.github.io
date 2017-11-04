@@ -12,7 +12,7 @@ Ayer quedamos con varies chicos y chicas del grupo de Telegram (os recordamos qu
 
 Ninguna de las grandes cadenas de cines en Granada se ha interesado por esta película sobre una mujer tan importante a lo largo de la historia, que además está dirigida por una mujer y el guión escrito por dos mujeres. Desde aquí os invitamos a acudir más a este cine, necesitamos cines que sigan apostando por algo más que superproducciones, y que acerquen el cine independiente a la gente.
 
-![]({{site.baseurl}}/assets/Marie_Curie/cartelyentrada.jpg)
+![Cartel de la película]({{site.baseurl}}/assets/Marie_Curie/cartelyentrada.jpg)
 
 En primer lugar vamos a hablar brevemente de Marie Curie, luego brevemente sobre la película y su sinopsis, y por último resumiremos las críticas de quienes asistieron a la quedada. __Ninguna parte contiene spoilers__, así que tanto si piensas ir a ver la película como si no, puedes leernos tranquilamente.  
 
@@ -46,4 +46,4 @@ Para comenzar, la película empieza cuando ya le han dado el primer premio Nobel
 
 Volviendo a Marie, no se muestra a una ganadora de dos premios Nobel y adelantada a su tiempo, se muestra a una mujer dependiente, de la época, y que, adicionalmente, ha ganado dos premios Nobel, como si fuese un asunto baladí que no tiene mayor importancia en la trama. Por último, llama la atención la manera tan "natural" de tratar actitudes machistas en la película, ya que se esperaría que las guionistas y la directora atacasen mordazmente esta actitud, pero hay numerosas escenas que se quedan colgadas sin recibir un final apropiado. Nos despedimos criticando a un jovencísimo Einstein que insta a Marie a "sonreir más, que está más guapa". Fin del comunicado.
 
-![]({{site.baseurl}}/assets/Marie_Curie/tertulia.jpg)
+![Foto de los asistentes]({{site.baseurl}}/assets/Marie_Curie/tertulia.jpg)

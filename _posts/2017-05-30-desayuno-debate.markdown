@@ -12,7 +12,7 @@ layout: post
 
 El pasado martes 30 de Mayo se celebró el desayuno-debate __"El papel de la mujer en el sector tecnológico"__ organizado por [___Grupo Trevenque___](https://www.trevenque.es/) y que ha tenido lugar en el [___Cloud Center Andalucía___](http://cca.trevenque.es/).
 
-![](assets/gtmujerestic/1.jpg)
+![Ponentes]({{ site.baseurl }}/assets/gtmujerestic/1.jpg)
 
 El desayuno-debate ha estado dividido en tres partes: en primer lugar, [__Nuria Rico__](https://twitter.com/NuriaStatgirl) ha dado una charla presentando datos sobre la presencia femenina en el mundo TIC, después, las invitadas han hecho un comentario breve sobre su experiencia personal en las TIC y, por último, ha habido un debate con el público.
 
@@ -31,15 +31,15 @@ En su presentación, _Nuria_ nos ha mostrado datos del [__INE__](http://www.ine.
 
 También nos ha enseñado lo que el [__CSIC__](http://www.csic.es/mujeres-y-ciencia) denomina la __gráfica tijera__, referida al número de hombres y mujeres en diferentes cargos de investigación. Cuanto más alto es el cargo, menos mujeres hay. En el cargo más importante (investigador principal) sólo hay un 24.86% de mujeres.
 
-![]({{ site.baseurl }}/assets/gtmujerestic/3.jpg)
+![Nuria Rico mostrando la gráfica tijera]({{ site.baseurl }}/assets/gtmujerestic/3.jpg)
 
 Después, _Nuria_ nos ha enseñado los datos a nivel nacional sobre la matriculación de mujeres en enseñanzas técnicas. En media, hay un 28.73% de mujeres matriculadas. Después, hemos pasado a ver los datos a nivel local, donde la media ascendía a un 29.95%. Dentro de las enseñanzas técnicas, la carrera que menos mujeres tenía matriculadas era __ingeniería informática__ con sólo un 9.63% seguida de __ingeniería de tecnologías de telecomunicación__ con un 16.81%.
 
-![]({{ site.baseurl }}/assets/gtmujerestic/4.jpg)
+![Nuria Rico mostrando datos de matriculación femenina en carreras técnicas]({{ site.baseurl }}/assets/gtmujerestic/4.jpg)
 
 Esto no siempre fue así. _Nuria_ nos ha enseñado una gráfica en la que se veía cómo al principio la informática era algo muy llamativo para las mujeres. Fue a partir de la llegada del ordenador personal a las casas cuando empezamos a perder el interés. ¿A qué se debe esto? Una de las posibles causas es la llegada del ordenador a las casas, aunque esto en principio no pueda parecer malo, los ordenadores en aquella época se vendían como juguetes para padres e hijos, donde las mujeres y niñas o bien no aparecían, o si lo hacían, eran prácticamente como "algo decorativo".
 
-![]({{ site.baseurl }}/assets/gtmujerestic/5.jpg)
+![Nuria Rico mostrando datos de matriculación desde el inicio de la ingeniería informática]({{ site.baseurl }}/assets/gtmujerestic/5.jpg)
 
 También hemos hablado del [__efecto "John-Jennifer"__](http://gender.stanford.edu/news/2014/why-does-john-get-stem-job-rather-jennifer): un experimento que consistía en enviar dos currículum idénticos pero con distinto género. El resultado fue que, a pesar de tener el mismo perfil, a John se le valoró mucho más las competencias profesionales que a Jennifer, e incluso, teniendo el mismo perfil, el salario era mucho mayor para John, que para Jennifer, aunque las seleccionadoras fueran mujeres.
 
@@ -51,22 +51,22 @@ Por último, _Nuria_ nos ha hablado de programas que luchan por cambiar la situa
 
 Una vez _Nuria_ ha terminado su presentación, el resto de ponentes ha contado su experiencia personal de forma breve.
 
-![]({{ site.baseurl }}/assets/gtmujerestic/6.jpg)
+![Charla de Maribel García Arenas]({{ site.baseurl }}/assets/gtmujerestic/6.jpg)
 
 En primer lugar, ha hablado [__Maribel García Arenas__](https://twitter.com/MIsGArenas). Ella nos ha contado cómo en sus clases siempre está detrás de las chicas, realizando lo que se conoce como _discriminación positiva_, para hacerles sentir que son tenidas en cuenta y valoradas. También nos ha contado su experiencia como profesora en el _Campus UGR para chicas_.
 
-![]({{ site.baseurl }}/assets/gtmujerestic/7.jpg)
+![Charla de Paloma de las Cuevas]({{ site.baseurl }}/assets/gtmujerestic/7.jpg)
 
 A continuación, ha sido el turno de [__Paloma de las Cuevas__](https://twitter.com/unintendedbear). Paloma nos ha hablado de la asociación que hemos fundado, __Geek & Tech Girls__, y de la cantidad de actividades que hemos organizado. También ha comentado algo que hemos reivindicado mucho desde _Geek & Tech Girls_ : la falta de ponentes femeninas en muchos eventos. Si se pone empeño en buscar a mujeres, al final se encuentran. De hecho, en _Geek & Tech Girls_ nos ha faltado tiempo para poder hacer todas las actividades que teníamos en mente.
 
-![]({{ site.baseurl }}/assets/gtmujerestic/8.jpg)
+![Charla de María Martín]({{ site.baseurl }}/assets/gtmujerestic/8.jpg)
 
 Seguidamente, ha intervenido [__María Martín__](https://twitter.com/generoenaccion), quien ha destacado la importancia de la charla de _Nuria_ y ha añadido que esto no es sólo un problema en las TIC sino en toda la sociedad. Tras esto, en referencia al efecto _John-Jennifer_, nos ha comentado un experimento que llevó a cabo en México, en el que consiguió que la empresa en la que trabajaba, donde los porcentajes de preselección de mujeres rondaban el 28%, aceptara currículums completamente anónimos, y en los que no se pudiera identificar el sexo de la persona.
 
 Con esto, se llevó a cabo un proceso de preselección de candidatos, que tuvo como resultado el haber prácticamente un de 50% hombres y un de 50% mujeres. En cambio, cuando ya se supo el género de cada candidato, sólo una minoría de mujeres pasó la selección final, volviendo los porcentajes a los que había antes de comenzar el estudio. Finalmente, ha añadido que las empresas que añaden mujeres a su plantilla son más productivas.
 
-![]({{ site.baseurl }}/assets/gtmujerestic/9.jpg)
-![]({{ site.baseurl }}/assets/gtmujerestic/10.jpg)
+![Charla de Laura y Eugenia Huertas]({{ site.baseurl }}/assets/gtmujerestic/9.jpg)
+![Charla de Laura y Eugenia Huertas]({{ site.baseurl }}/assets/gtmujerestic/10.jpg)
 
 Por último, las hermanas [__Laura y Eugenia Huertas Cabello__](https://twitter.com/galdonsoftware) nos han contado su experiencia profesional. Su familia las apoyó desde pequeñas a estudiar ingeniería informática y, como durante la carrera, ellas hicieron piña con sus compañeras para apoyarse las unas a las otras, ayudarse y sacar adelante la carrera.
 
@@ -76,7 +76,7 @@ Además de esto, nos han contado que en su empresa, ___Galdon Software___, está
 
 Tras la presentación de las ponentes, hemos pasado a un desayuno ofrecido por _Grupo Trevenque_ en el cual hemos podido conversar de forma más cercana con las asistentes y ponentes del evento.
 
-![]({{ site.baseurl }}/assets/gtmujerestic/11.jpg)
+![Desayuno]({{ site.baseurl }}/assets/gtmujerestic/11.jpg)
 
 En el debate ha habido una alta participación por parte del público. Se ha empezado hablando sobre la _responsabilidad_ de las mujeres: no sólo es responsabilidad de las mujeres cambiar la situación actual sino que también es cosa de hombres __levantar la voz__ ante determinadas situaciones. Es cierto que las mujeres nos vamos a encontrar más dificultades a la hora de perseguir nuestros objetivos, pero debemos luchar cada día por conseguirlos.
 
@@ -86,5 +86,5 @@ Muchas mujeres han contado experiencias personales y realmente se ha conseguido 
 
 Finalmente, a cada ponente se le ha regalado un cactus como agradecimiento por su participación.
 
-![]({{ site.baseurl }}/assets/gtmujerestic/12.jpg)
-![]({{ site.baseurl }}/assets/gtmujerestic/13.jpg)
+![Cactus obsequio de grupo Trevenque]({{ site.baseurl }}/assets/gtmujerestic/12.jpg)
+![Paloma posando con el cactus obsequio]({{ site.baseurl }}/assets/gtmujerestic/13.jpg)

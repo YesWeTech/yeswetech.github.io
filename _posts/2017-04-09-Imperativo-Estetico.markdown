@@ -14,7 +14,7 @@ Tengo que decirlo: he apuntado alto con el título. Muchos conceptos juntos. Qui
 
 ### Hay un problema, chicas.
 
-![Superheroina]({{ site.baseurl }}/assets/Feminist_Superhero.jpg)
+![Superheroina]({{ site.baseurl }}/assets/Feminist_Superhero_2.jpg)
 
 Me atreví a escribir este post tras leer  a una escritora que, personalmente, me encanta: [Herminia Luque](https://es.wikipedia.org/wiki/Herminia_Luque). La granadina ha recibido el premio Málaga de Novela en su IX edición por su novela [_Amar tanta Belleza_](https://www.amazon.com/tanta-belleza-Herminia-Luque-Ort%C3%ADz/dp/8415673132/ref=sr_1_1?s=books&ie=UTF8&qid=1489393503&sr=1-1&refinements=p_27%3AHerminia+Luque+Ortiz). También me gustaría destacar [_Al Sur de la Nada_](https://www.amazon.com/sur-nada-Herminia-Luque-Ortiz/dp/849282154X/ref=sr_1_2?s=books&ie=UTF8&qid=1489393503&sr=1-2&refinements=p_27%3AHerminia+Luque+Ortiz), ya que ambos libros van sobre las vidas de mujeres que, sin saber muy bien por qué, han sido víctimas de una sociedad machista que nos les ha permitido desarrollarse plenamente o que, incluso habiéndolo hecho, les ha cortado las alas y las ha invisibilizado. Sin embargo, esos libros os los dejo a vosotras para vuestra lectura personal.
 

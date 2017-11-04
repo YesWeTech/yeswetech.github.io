@@ -18,7 +18,7 @@ La estructura de un editatón es muy simple: se dan directrices y manuales sobre
 
 ![Resultados finales disponibles en la página]({{ site.baseurl }}/assets/2017-02-15-Editaton-Wikipedia.png)
 
-Desde la OSL hicieron una guía muy simple y amena que podéis leer [aquí](http://osl.ugr.es/2017/02/10/editatonforbeginners/) ya que la mayoría de los que íbamos éramos nuevos en el tema. Además, podéis consultar los manuales de forma oficiales [aquí](https://es.wikipedia.org/wiki/Ayuda:Introducci%C3%B3no) y [aquí](https://es.wikipedia.org/wiki/Wikipedia:Manual_de_estilo).
+Desde la OSL hicieron una guía muy simple y amena que podéis leer [aquí](http://osl.ugr.es/2017/02/10/editatonforbeginners/) ya que la mayoría de los que íbamos éramos nuevos en el tema. Además, podéis consultar los manuales de forma oficiales [aquí](https://es.wikipedia.org/wiki/Wikipedia:Manual_de_estilo).
 
 ## ¿Por qué es importante participar en la Wikipedia?
 

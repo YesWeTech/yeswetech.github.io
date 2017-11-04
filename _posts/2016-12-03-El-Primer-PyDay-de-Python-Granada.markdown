@@ -14,7 +14,7 @@ El grupo ___Python Granada___ organizó una serie de charlas sobre las que os va
 
 ## Discovering Python Granada & PyConES16 Review
 
-En primer lugar, [__Juan Antonio Fernández__](https://twitter.com/sinclair_88) presentó a la asociación ___Python Granada___. Inicialmente, explicó la historia de la asociación: fue fundada por [_Víctor Terrón_](https://twitter.com/pyctor) y [_Pablo Galindo_](https://twitter.com/pablogsalgado) porque les gustaba mucho _Python_ y querían conocer a la comunidad local que había en Granada. Ambos tuvieron que dejar la asociación debido a que se fueron de Granada pero un grupo de estudiantes de la UGR junto con varios profesionales del sector, decidieron volver a revivirla organizando este PyDay. 
+En primer lugar, [__Juan Antonio Fernández__](https://twitter.com/sinclair_88) presentó a la asociación ___Python Granada___. Inicialmente, explicó la historia de la asociación: fue fundada por [_Víctor Terrón_](https://twitter.com/pyctor) y [_Pablo Galindo_](https://github.com/pablogsal) porque les gustaba mucho _Python_ y querían conocer a la comunidad local que había en Granada. Ambos tuvieron que dejar la asociación debido a que se fueron de Granada pero un grupo de estudiantes de la UGR junto con varios profesionales del sector, decidieron volver a revivirla organizando este PyDay. 
 
 Después, Juan Antonio explicó en primer lugar por qué es necesario aprender _Python_ hoy en día, la gran demanda laboral que tiene y la gran comunidad de usuarios que está empezando a tener. Para ello, nos mostró una gráfica en la que se veía como las búsquedas sobre _Python_ en _Stackoverflow_ iban aumentando con el paso del tiempo, mientras que las búsquedas de otros lenguajes como Java, iban disminuyendo.
 
@@ -79,7 +79,7 @@ Si quieres consultar las diapositivas de esta charla, están disponibles en este
 
 ## Charla improvisada de Pablo Galindo
 
-Como hemos dicho antes, [__Pablo Galindo__](https://twitter.com/pablogsalgado) fue uno de los fundadores de Python Granada y pudo asistir al evento. Los organizadores lo invitaron a dar una pequeña charla improvisada y aceptó el reto.
+Como hemos dicho antes, [__Pablo Galindo__](https://github.com/pablogsal) fue uno de los fundadores de Python Granada y pudo asistir al evento. Los organizadores lo invitaron a dar una pequeña charla improvisada y aceptó el reto.
 
 Así, Pablo nos contó algunas curiosidades sobre Python como el uso del operador `is`, o el truco de que una lista vacía (`[]`) se evalúa como `False`. También explicó el uso del operador `all` y vimos por qué una serie de expresiones se evaluaban como `True` o `False`. Todo esto de forma clara, rápida y muy dinámica.
 
