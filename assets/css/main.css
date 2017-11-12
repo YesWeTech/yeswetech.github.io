@@ -793,6 +793,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+h1, h2, h3, h4, h5, h6, b, i {
+  color: tomato;
+}
+
 h1 {
   font-weight: 400;
 }
@@ -820,6 +824,33 @@ pre code {
   border: 0;
   padding-right: 0;
   padding-left: 0;
+}
+
+.pagination ul {
+  margin: 0;
+  padding: 0;
+}
+
+.pagination li {
+  display: block;
+  float: left;
+}
+
+.pagination {
+  font-size: 20px;
+}
+
+.pagination a {
+  color: tomato;
+  -webkit-transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
+  -o-transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
+  transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
+}
+
+.pagination a:hover {
+  -webkit-transform: scale(1.2);
+      -ms-transform: scale(1.2);
+          transform: scale(1.2);
 }
 
 .wrapper {
