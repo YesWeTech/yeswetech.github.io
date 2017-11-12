@@ -103,6 +103,18 @@ a {
   /* 2 */
 }
 
+.article-page a {
+  background-color: black;
+  color: white;
+  text-decoration: none;
+}
+
+.article-page a:hover {
+  color: tomato;
+  background-color: transparent;
+  text-decoration: none;
+}
+
 /**
  * 1. Remove the bottom border in Chrome 57- and Firefox 39-.
  * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
