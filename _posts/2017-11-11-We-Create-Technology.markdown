@@ -1,5 +1,5 @@
 ---
-title: "We Create Techonology"
+title: "We Create Technology"
 subtitle: "Resumen del evento coorganizado junto a Yes We Tech"
 date: 2017-11-11 20:00:00::00 +0530
 categories: ["blog"]
