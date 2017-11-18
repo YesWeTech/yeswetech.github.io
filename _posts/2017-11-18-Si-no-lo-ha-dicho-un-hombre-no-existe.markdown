@@ -28,17 +28,17 @@ Es que en el informe técnico **no se cita ni uno solo de los artículos que os 
 
 > La diversidad en las carreras tecnológicas ha sido una preocupación constante y universal en los últimos años,debido sobre todo a la pérdida de la misma, que comienza en la entrada a las diferentes carreras, continúadurante la misma y eventualmente en la profesión informática. Es difícil aventurar ninguna hipótesis sobre las causas si no se mira primero a los datos y, sobre todo, a la tendencia.
 
-Es increíble cómo, a pesar de la cantidad e trabajos que han realizado encuestas, observaciones, entrevistas, discusiones en grupos focales y recogida de datos, no se cite ni se mencione ni uno de ellos, ni en el informe técnico ni en el artículo de la web.
+Es increíble cómo, a pesar de la cantidad de trabajos que han realizado encuestas, observaciones, entrevistas, discusiones en grupos focales y recogida de datos, no se cite ni se mencione ni uno de ellos, ni en el informe técnico ni en el artículo de la web.
 
 Resulta muy curioso que en el propio artículo de _Xataka_ se llegue a decir que "faltan referentes femeninos", o más bien que antes de los 80 sí se podían encontrar... claro, ahora no. Pues sí, tanto ahora como antes, pero estamos hoy en la misma situación que hemos estado siempre: **se invisibiliza sistemáticamente a las mujeres y a su trabajo**. Prueba de ello es que sí que haya referentes pero no se hable de ellas en los medios, y prueba de ello es, de nuevo, el colocar el trabajo **sobre la situación de la mujer** de un hombre (y de una mujer, pero hablamos de cómo lo trata en su artículo Lacort) por encima de otros ya realizados.
 
 Pero como nosotras sabemos que hay tanto estudios sobre la baja presencia femenina en carreras tecnológicas en general como de los factores que influyen en ello, venimos a darles voz, y de paso a hacer una guía de referencia para quien quiera informarse sobre este tema. (_También para otros señores del Internet que quieran volver a afirmar tan alegremente que mecachis ha tenido que venir un hombre a decir lo que están sufriendo las mujeres_).
 
-_Nota_: hemos incluido en la lista aquellos que son de autoras y autores españoles o europeos pero que den de algún modo cifras sobre la situación en España. Si te interesa saber más sobre artículos de otros países, escríbenos por las redes y preparamos otro post más global :)
+_Nota_: hemos incluido en la lista aquellos que son de autoras y autores españoles o europeos pero que muestren de algún modo cifras sobre la situación en España. Si te interesa saber más sobre artículos de otros países, escríbenos por las redes y preparamos otro post más global :).
 
 Por favor, si notas que falta algún estudio, proyecto o artículo (seguro que nos dejamos algo y pedimos perdón por adelantado), escríbenos a geek.and.tech.girls@gmail.com y lo añadiremos con mucho gusto. Además, si te gusta usar git y tienes Github, también nos puedes mandar un pull request a [https://github.com/geekandtechgirls/geekandtechgirls.github.io](https://github.com/geekandtechgirls/geekandtechgirls.github.io) añadiendo los artículos que creas conveniente.
 
-* El género copmo factor condicionante de la elección de carrera: hacia una orientación para la igualdad de oportunidades entre los sexos. Por Mosteiro García, M. J.. 1997.
+* El género como factor condicionante de la elección de carrera: hacia una orientación para la igualdad de oportunidades entre los sexos. Por Mosteiro García, M. J.. 1997.
 * Ciencia, tecnología y género: Informe internacional. Por la UNESCO.
  Disponible [aquí](http://www.unesco.org/fileadmin/MULTIMEDIA/HQ/SC/pdf/sc_stg_executive_summary-es.pdf).
 * Acercando la ingeniería a las mujeres en Aragón. Por Trillo Lado, R., Baldasarri, S., Molina, P., y Villarroya Gaudó, M. 2011.
