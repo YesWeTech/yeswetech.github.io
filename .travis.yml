@@ -11,6 +11,7 @@ script: ./script/cibuild
 branches:
   only:
   - master
+  - revision_articulos
 
 env:
   global:
