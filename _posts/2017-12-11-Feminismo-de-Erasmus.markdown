@@ -5,7 +5,7 @@ date: 2017-02-02
 categories: ["blog"]
 author: "Teresa Algarra"
 avatar: img/authors/teresa.jpe
-image: assets/Ysektionen.jpg
+image: assets/Ysektionen.png
 ---
 
 _"¿Qué estudias tú? Espera, no me lo digas, seguro que eres de económicas. ¿No? ¿Magisterio entonces? ¿Tampoco? Entonces ambientales, seguro. ¿Ingeniera? ¿De verdad? Pero entonces ingeniería biomédica, ¿no? Ah, ¿que eres de Ingeniería de las Telecomunicaciones? ¿Te estás especializando en Sistemas Electrónicos de verdad? Pero, ¿y te gusta? No es una carrera muy femenina, la verdad, no estaréis muchas chicas en clase. Yo siempre lo he visto como algo de hombres, pero vaya, que si a ti te gusta, adelante. ¡Si necesitas ayuda me lo dices! ¿Qué? Ah, no, yo no estudio ingeniería, pero a mis amigotes del instituto y a mi se nos daba genial Tecnología Industrial, siempre he sido un hacha en eso, me vedrá de mi padre. Ya sabes, cosas de hombres."_ 
