@@ -1,7 +1,7 @@
 ---
 title: "Feminismo de Erasmus"
 subtitle: "Cuando nadie se creyó que fuese ingeniera"
-date: 2017-02-02
+date: 2017-12-12
 categories: ["blog"]
 author: "Teresa Algarra"
 avatar: img/authors/teresa.jpe
