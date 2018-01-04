@@ -5,7 +5,7 @@ date: 2018-01-03
 categories: ["blog"]
 author: "Teresa Algarra"
 avatar: img/authors/teresa.jpe
-image: assets/diana_quer.png
+image: assets/diana_quer.jpg
 ---
 
 Una más, compañeras. Una más a la larga lista de mujeres que creyeron en la sociedad, creyeron en los hombres, creyeron que podrían ser libres. Confió en salir de casa, confió en ir a una fiesta, confió en volverse sola. 
